@@ -85,3 +85,31 @@ Poll-Results-Visualizer/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore file
 └── README.md # Project documentation
+
+text
+
+## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/Poll-Results-Visualizer.git
+cd Poll-Results-Visualizer
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment (Windows)
+venv\Scripts\activate
+
+# Activate virtual environment (Mac/Linux)
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+🏃‍♂️ How to Run
+bash
+# Run the complete pipeline
+python main.py
+
+# Run the interactive dashboard
+streamlit run app.py
