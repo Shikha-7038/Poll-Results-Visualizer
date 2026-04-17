@@ -74,3 +74,35 @@ This project provides an end-to-end solution that:
 | Environment | VS Code / Jupyter |
 
 ## 📁 Project Structure
+Poll-Results-Visualizer/
+│
+├── data/                       # Generated and cleaned data
+│   ├── poll_data.csv          # Raw synthetic data
+│   └── cleaned_poll_data.csv  # Processed data
+│
+├── src/                        # Source code modules
+│   ├── data_generator.py      # Synthetic data generation
+│   ├── data_cleaner.py        # Data preprocessing
+│   ├── analysis.py            # Statistical analysis
+│   ├── visualizations.py      # Chart generation
+│   └── insights.py            # Insight generation
+│
+├── outputs/                    # Generated outputs
+│   ├── *.png                  # Visualization charts
+│   ├── interactive_dashboard.html
+│   ├── insights_report.txt
+│   └── summary_statistics.csv
+│
+├── images/                     # Screenshots for documentation
+├── app.py                      # Streamlit dashboard
+├── main.py                     # Complete pipeline runner
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation
+
+🚀 Installation
+Prerequisites
+Python 3.11 or higher
+
+pip package manager
+
+Git (optional, for cloning)
