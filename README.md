@@ -55,6 +55,8 @@
 | **Environment** | VS Code / Jupyter |
 
 ## 📁 Project Structure
+
+```
 Poll-Results-Visualizer/
 │
 ├── data/
@@ -85,3 +87,5 @@ Poll-Results-Visualizer/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore file
 └── README.md # Project documentation
+
+```
