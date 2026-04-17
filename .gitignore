@@ -35,7 +35,28 @@ venv/
 .venv
 
 # IDE
+.vscode/# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Only ignore CSV and PNG files, keep the folders
+data/*.csv
+!data/.gitkeep
+
+outputs/*.png
+outputs/*.html
+!outputs/.gitkeep
+
+images/*.png
+!images/.gitkeep
+
+# IDE
 .vscode/
+.idea/
 .idea/
 *.swp
 *.swo
