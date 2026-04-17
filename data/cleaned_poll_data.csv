@@ -1,0 +1,501 @@
+response_id,timestamp,region,age_group,gender,occupation,education_level,preferred_tool,satisfaction_rating,would_recommend,support_quality,feature_importance,usage_frequency,feedback,date,hour,day_of_week,month,satisfaction_category,feedback_length,recommendation_score,support_score
+Res_0001,2024-03-22 03:01:00,East,25-34,Female,Professional,High School,R,3,Definitely Yes,Excellent,Integration,Weekly,Average experience.,2024-03-22,3,Friday,March,Medium,19,5,5
+Res_0002,2024-01-12 18:27:00,North,18-24,Male,Professional,Bachelor'S,Excel,4,Definitely Yes,Very Poor,Integration,Daily,Highly recommended for beginners.,2024-01-12,18,Friday,January,High,33,5,1
+Res_0003,2024-03-18 00:35:00,South,55+,Prefer Not To Say,Professional,Phd,Python,3,Not Sure,Good,Performance,Weekly,Average experience.,2024-03-18,0,Monday,March,Medium,19,3,4
+Res_0004,2024-02-05 00:48:00,South,45-54,Non-Binary,Business Owner,Bachelor'S,Python,3,Probably Yes,Good,Price,Monthly,Could use some improvements.,2024-02-05,0,Monday,February,Medium,28,4,4
+Res_0005,2024-02-13 03:05:00,West,18-24,Non-Binary,Business Owner,Other,Python,5,Definitely Yes,Good,Ease Of Use,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-13,3,Tuesday,February,High,59,5,4
+Res_0006,2024-01-06 23:29:00,Central,18-24,Prefer Not To Say,Student,Other,Spss,4,Probably No,Poor,Ease Of Use,Daily,Love the features and support.,2024-01-06,23,Saturday,January,High,30,2,2
+Res_0007,2024-03-21 19:56:00,East,55+,Female,Student,High School,Excel,3,Probably Yes,Excellent,Integration,Daily,Could use some improvements.,2024-03-21,19,Thursday,March,Medium,28,4,5
+Res_0008,2024-02-07 02:54:00,South,18-24,Prefer Not To Say,Business Owner,Phd,Tableau,5,Definitely Yes,Average,Price,Daily,Love the features and support.,2024-02-07,2,Wednesday,February,High,30,5,3
+Res_0009,2024-01-21 11:22:00,South,35-44,Male,Unemployed,Bachelor'S,Spss,4,Not Sure,Excellent,Ease Of Use,Daily,Highly recommended for beginners.,2024-01-21,11,Sunday,January,High,33,3,5
+Res_0010,2024-02-01 05:29:00,West,35-44,Female,Business Owner,High School,Python,5,Definitely Yes,Excellent,Integration,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-01,5,Thursday,February,High,62,5,5
+Res_0011,2024-01-05 10:25:00,East,18-24,Female,Unemployed,Master'S,Python,4,Probably Yes,Excellent,Security,Monthly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-05,10,Friday,January,High,62,4,5
+Res_0012,2024-03-24 15:25:00,West,25-34,Non-Binary,Professional,Bachelor'S,Python,5,Definitely Yes,Average,Support,Monthly,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-24,15,Sunday,March,High,62,5,3
+Res_0013,2024-03-09 08:47:00,Central,45-54,Prefer Not To Say,Business Owner,Bachelor'S,Power Bi,3,Definitely Yes,Poor,Price,Daily,Could use some improvements.,2024-03-09,8,Saturday,March,Medium,28,5,2
+Res_0014,2024-03-06 15:05:00,North,18-24,Female,Professional,Phd,Python,4,Definitely Yes,Good,Support,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-06,15,Wednesday,March,High,62,5,4
+Res_0015,2024-01-09 12:24:00,Central,45-54,Non-Binary,Unemployed,High School,Power Bi,3,Not Sure,Average,Price,Monthly,"It's okay, does the job.",2024-01-09,12,Tuesday,January,Medium,24,3,3
+Res_0016,2024-03-28 17:48:00,East,35-44,Male,Business Owner,Phd,R,4,Definitely Yes,Good,Ease Of Use,Daily,Excellent tool for data analysis.,2024-03-28,17,Thursday,March,High,33,5,4
+Res_0017,2024-02-28 00:46:00,East,55+,Female,Unemployed,High School,Python,3,Not Sure,Poor,Performance,Weekly,Decent product overall.,2024-02-28,0,Wednesday,February,Medium,23,3,2
+Res_0018,2024-03-22 16:38:00,South,25-34,Non-Binary,Professional,Other,Power Bi,5,Definitely Yes,Excellent,Performance,Daily,Highly recommended for beginners.,2024-03-22,16,Friday,March,High,33,5,5
+Res_0019,2024-01-01 19:20:00,West,18-24,Male,Business Owner,Master'S,Power Bi,4,Not Sure,Average,Ease Of Use,Rarely,Excellent tool for data analysis.,2024-01-01,19,Monday,January,High,33,3,3
+Res_0020,2024-01-08 07:56:00,Central,18-24,Male,Retired,High School,Excel,5,Probably Yes,Poor,Performance,Daily,Highly recommended for beginners.,2024-01-08,7,Monday,January,High,33,4,2
+Res_0021,2024-01-17 04:42:00,West,55+,Female,Business Owner,Other,Python,4,Not Sure,Excellent,Price,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-17,4,Wednesday,January,High,62,3,5
+Res_0022,2024-02-24 06:59:00,Central,25-34,Non-Binary,Retired,Master'S,R,4,Definitely Yes,Good,Security,Daily,Best tool I've used so far.,2024-02-24,6,Saturday,February,High,27,5,4
+Res_0023,2024-03-07 14:07:00,South,25-34,Male,Business Owner,High School,Excel,4,Probably No,Very Poor,Performance,Weekly,Highly recommended for beginners.,2024-03-07,14,Thursday,March,High,33,2,1
+Res_0024,2024-03-11 07:37:00,South,18-24,Male,Student,Bachelor'S,R,5,Definitely Yes,Excellent,Price,Weekly,"Great product, very user-friendly!",2024-03-11,7,Monday,March,High,34,5,5
+Res_0025,2024-01-05 10:04:00,Central,25-34,Non-Binary,Retired,Bachelor'S,Python,5,Definitely Yes,Excellent,Price,Never,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-05,10,Friday,January,High,62,5,5
+Res_0026,2024-01-17 23:59:00,Central,55+,Prefer Not To Say,Professional,Phd,R,3,Not Sure,Average,Ease Of Use,Monthly,Works as expected.,2024-01-17,23,Wednesday,January,Medium,18,3,3
+Res_0027,2024-01-25 03:06:00,West,35-44,Prefer Not To Say,Retired,Phd,Python,5,Definitely Yes,Excellent,Integration,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-25,3,Thursday,January,High,63,5,5
+Res_0028,2024-03-27 20:41:00,North,18-24,Prefer Not To Say,Business Owner,High School,Python,5,Definitely Yes,Good,Support,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-27,20,Wednesday,March,High,62,5,4
+Res_0029,2024-01-25 06:34:00,West,25-34,Prefer Not To Say,Professional,Master'S,R,4,Definitely Yes,Average,Performance,Rarely,Best tool I've used so far.,2024-01-25,6,Thursday,January,High,27,5,3
+Res_0030,2024-02-01 02:28:00,Central,18-24,Male,Unemployed,High School,Python,4,Definitely Yes,Excellent,Security,Rarely,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-01,2,Thursday,February,High,63,5,5
+Res_0031,2024-01-31 05:26:00,West,45-54,Female,Retired,High School,Python,4,Definitely Yes,Good,Performance,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-31,5,Wednesday,January,High,62,5,4
+Res_0032,2024-02-18 00:24:00,East,45-54,Non-Binary,Retired,Other,Power Bi,4,Not Sure,Average,Performance,Daily,Best tool I've used so far.,2024-02-18,0,Sunday,February,High,27,3,3
+Res_0033,2024-01-20 06:18:00,South,18-24,Male,Business Owner,High School,Tableau,5,Definitely Yes,Excellent,Integration,Weekly,"Great product, very user-friendly!",2024-01-20,6,Saturday,January,High,34,5,5
+Res_0034,2024-03-15 15:32:00,Central,25-34,Male,Unemployed,High School,Python,5,Definitely Yes,Average,Ease Of Use,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-15,15,Friday,March,High,62,5,3
+Res_0035,2024-01-09 19:04:00,South,45-54,Male,Unemployed,Bachelor'S,Excel,4,Definitely Yes,Average,Performance,Daily,Highly recommended for beginners.,2024-01-09,19,Tuesday,January,High,33,5,3
+Res_0036,2024-03-17 01:39:00,North,45-54,Non-Binary,Business Owner,Bachelor'S,Excel,4,Probably Yes,Average,Support,Weekly,Love the features and support.,2024-03-17,1,Sunday,March,High,30,4,3
+Res_0037,2024-01-31 08:25:00,South,35-44,Prefer Not To Say,Business Owner,High School,Python,4,Definitely Yes,Very Poor,Price,Rarely,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-31,8,Wednesday,January,High,63,5,1
+Res_0038,2024-02-28 19:36:00,North,18-24,Female,Unemployed,Master'S,Excel,4,Probably Yes,Good,Price,Weekly,Excellent tool for data analysis.,2024-02-28,19,Wednesday,February,High,33,4,4
+Res_0039,2024-02-14 02:56:00,South,35-44,Non-Binary,Professional,Phd,Python,4,Definitely Yes,Average,Ease Of Use,Rarely,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-14,2,Wednesday,February,High,62,5,3
+Res_0040,2024-03-31 09:39:00,Central,18-24,Non-Binary,Student,Bachelor'S,Spss,5,Not Sure,Good,Ease Of Use,Rarely,Love the features and support.,2024-03-31,9,Sunday,March,High,30,3,4
+Res_0041,2024-01-15 03:47:00,Central,25-34,Non-Binary,Business Owner,Other,Excel,4,Definitely Yes,Poor,Performance,Daily,Excellent tool for data analysis.,2024-01-15,3,Monday,January,High,33,5,2
+Res_0042,2024-02-13 06:43:00,East,55+,Prefer Not To Say,Business Owner,High School,Excel,3,Definitely No,Average,Price,Daily,"It's okay, does the job.",2024-02-13,6,Tuesday,February,Medium,24,1,3
+Res_0043,2024-03-22 13:53:00,East,18-24,Male,Business Owner,Bachelor'S,Excel,5,Probably Yes,Average,Support,Daily,Love the features and support.,2024-03-22,13,Friday,March,High,30,4,3
+Res_0044,2024-01-21 23:28:00,Central,45-54,Male,Student,High School,R,3,Probably No,Poor,Integration,Rarely,Could use some improvements.,2024-01-21,23,Sunday,January,Medium,28,2,2
+Res_0045,2024-03-10 01:53:00,East,55+,Female,Retired,Bachelor'S,R,4,Probably Yes,Average,Integration,Rarely,"Great product, very user-friendly!",2024-03-10,1,Sunday,March,High,34,4,3
+Res_0046,2024-02-09 11:57:00,North,35-44,Female,Professional,High School,Python,4,Definitely Yes,Excellent,Price,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-09,11,Friday,February,High,59,5,5
+Res_0047,2024-03-12 13:39:00,South,25-34,Female,Professional,Phd,Excel,3,Not Sure,Excellent,Ease Of Use,Monthly,"It's okay, does the job.",2024-03-12,13,Tuesday,March,Medium,24,3,5
+Res_0048,2024-01-23 23:59:00,East,45-54,Female,Business Owner,Bachelor'S,R,4,Definitely Yes,Average,Integration,Daily,"Great product, very user-friendly!",2024-01-23,23,Tuesday,January,High,34,5,3
+Res_0049,2024-02-18 01:54:00,West,25-34,Female,Retired,Master'S,Excel,5,Probably Yes,Average,Security,Weekly,Love the features and support.,2024-02-18,1,Sunday,February,High,30,4,3
+Res_0050,2024-01-30 07:01:00,South,45-54,Non-Binary,Business Owner,High School,R,4,Probably Yes,Good,Price,Daily,Love the features and support.,2024-01-30,7,Tuesday,January,High,30,4,4
+Res_0051,2024-02-14 20:32:00,West,55+,Non-Binary,Student,High School,Python,3,Definitely Yes,Excellent,Ease Of Use,Weekly,Decent product overall.,2024-02-14,20,Wednesday,February,Medium,23,5,5
+Res_0052,2024-01-23 18:16:00,North,18-24,Prefer Not To Say,Business Owner,Master'S,Excel,5,Probably Yes,Excellent,Security,Monthly,Best tool I've used so far.,2024-01-23,18,Tuesday,January,High,27,4,5
+Res_0053,2024-03-18 16:07:00,West,55+,Female,Business Owner,High School,Excel,2,Not Sure,Good,Integration,Daily,Some features are buggy. Excel is too limiting for big data.,2024-03-18,16,Monday,March,Low,60,3,4
+Res_0054,2024-01-01 16:59:00,Central,25-34,Non-Binary,Retired,High School,Python,5,Definitely Yes,Excellent,Integration,Monthly,Love the features and support. Python ecosystem is amazing!,2024-01-01,16,Monday,January,High,59,5,5
+Res_0055,2024-03-20 10:42:00,North,35-44,Non-Binary,Retired,Master'S,R,4,Definitely Yes,Excellent,Price,Daily,Best tool I've used so far.,2024-03-20,10,Wednesday,March,High,27,5,5
+Res_0056,2024-03-30 09:35:00,South,25-34,Prefer Not To Say,Retired,Bachelor'S,Excel,4,Probably Yes,Excellent,Price,Weekly,Highly recommended for beginners.,2024-03-30,9,Saturday,March,High,33,4,5
+Res_0057,2024-03-13 09:25:00,Central,18-24,Non-Binary,Business Owner,Bachelor'S,Excel,4,Definitely Yes,Excellent,Price,Daily,Best tool I've used so far.,2024-03-13,9,Wednesday,March,High,27,5,5
+Res_0058,2024-03-15 19:41:00,East,45-54,Prefer Not To Say,Retired,Bachelor'S,Excel,4,Not Sure,Average,Price,Weekly,Highly recommended for beginners.,2024-03-15,19,Friday,March,High,33,3,3
+Res_0059,2024-03-01 23:10:00,North,35-44,Non-Binary,Student,Bachelor'S,R,4,Definitely Yes,Very Poor,Integration,Daily,Love the features and support.,2024-03-01,23,Friday,March,High,30,5,1
+Res_0060,2024-01-29 06:09:00,North,18-24,Female,Retired,Other,Python,5,Definitely Yes,Excellent,Ease Of Use,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-29,6,Monday,January,High,63,5,5
+Res_0061,2024-02-28 13:56:00,Central,25-34,Prefer Not To Say,Retired,Phd,Python,5,Definitely Yes,Poor,Performance,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-28,13,Wednesday,February,High,62,5,2
+Res_0062,2024-01-19 20:44:00,North,18-24,Prefer Not To Say,Professional,Bachelor'S,Excel,4,Probably Yes,Poor,Support,Monthly,Highly recommended for beginners.,2024-01-19,20,Friday,January,High,33,4,2
+Res_0063,2024-02-29 01:35:00,South,18-24,Prefer Not To Say,Professional,Phd,R,4,Probably Yes,Very Poor,Performance,Daily,Highly recommended for beginners.,2024-02-29,1,Thursday,February,High,33,4,1
+Res_0064,2024-03-12 19:20:00,West,55+,Prefer Not To Say,Unemployed,Phd,Tableau,3,Probably Yes,Poor,Integration,Weekly,Could use some improvements.,2024-03-12,19,Tuesday,March,Medium,28,4,2
+Res_0065,2024-03-01 14:16:00,South,35-44,Prefer Not To Say,Professional,Master'S,Power Bi,3,Definitely No,Average,Integration,Daily,Works as expected.,2024-03-01,14,Friday,March,Medium,18,1,3
+Res_0066,2024-01-10 22:18:00,South,35-44,Non-Binary,Business Owner,Other,Power Bi,4,Definitely Yes,Excellent,Security,Daily,"Great product, very user-friendly!",2024-01-10,22,Wednesday,January,High,34,5,5
+Res_0067,2024-01-18 04:14:00,West,25-34,Female,Student,Phd,Python,5,Definitely Yes,Excellent,Ease Of Use,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-01-18,4,Thursday,January,High,56,5,5
+Res_0068,2024-02-12 17:29:00,West,18-24,Female,Retired,Phd,Tableau,5,Probably Yes,Average,Ease Of Use,Weekly,Highly recommended for beginners.,2024-02-12,17,Monday,February,High,33,4,3
+Res_0069,2024-03-30 00:54:00,Central,45-54,Prefer Not To Say,Student,Master'S,Python,3,Probably No,Good,Ease Of Use,Daily,Decent product overall.,2024-03-30,0,Saturday,March,Medium,23,2,4
+Res_0070,2024-02-19 13:34:00,Central,55+,Female,Retired,Bachelor'S,Power Bi,4,Probably Yes,Excellent,Ease Of Use,Monthly,Love the features and support.,2024-02-19,13,Monday,February,High,30,4,5
+Res_0071,2024-02-25 15:01:00,West,35-44,Prefer Not To Say,Professional,Phd,Python,4,Definitely Yes,Excellent,Security,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-25,15,Sunday,February,High,62,5,5
+Res_0072,2024-03-20 17:01:00,West,55+,Male,Student,Phd,Python,4,Probably Yes,Poor,Security,Monthly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-20,17,Wednesday,March,High,62,4,2
+Res_0073,2024-02-29 05:03:00,East,45-54,Non-Binary,Professional,Phd,R,2,Definitely No,Excellent,Performance,Daily,Customer support could be better.,2024-02-29,5,Thursday,February,Low,33,1,5
+Res_0074,2024-02-13 12:17:00,West,35-44,Male,Retired,High School,R,4,Definitely Yes,Excellent,Ease Of Use,Weekly,Highly recommended for beginners.,2024-02-13,12,Tuesday,February,High,33,5,5
+Res_0075,2024-01-07 11:14:00,North,18-24,Male,Professional,Bachelor'S,Excel,4,Definitely Yes,Excellent,Integration,Daily,"Great product, very user-friendly!",2024-01-07,11,Sunday,January,High,34,5,5
+Res_0076,2024-03-20 04:15:00,South,45-54,Male,Unemployed,Bachelor'S,Spss,3,Definitely Yes,Very Poor,Ease Of Use,Rarely,Works as expected.,2024-03-20,4,Wednesday,March,Medium,18,5,1
+Res_0077,2024-03-30 08:49:00,East,25-34,Male,Professional,Master'S,R,4,Definitely Yes,Average,Support,Weekly,"Great product, very user-friendly!",2024-03-30,8,Saturday,March,High,34,5,3
+Res_0078,2024-03-15 00:59:00,East,55+,Prefer Not To Say,Retired,Bachelor'S,Excel,3,Not Sure,Poor,Ease Of Use,Daily,"It's okay, does the job.",2024-03-15,0,Friday,March,Medium,24,3,2
+Res_0079,2024-03-16 22:53:00,South,18-24,Non-Binary,Unemployed,High School,Spss,4,Probably Yes,Good,Ease Of Use,Weekly,Highly recommended for beginners.,2024-03-16,22,Saturday,March,High,33,4,4
+Res_0080,2024-01-06 11:34:00,West,35-44,Male,Unemployed,Master'S,Python,5,Definitely Yes,Excellent,Security,Never,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-06,11,Saturday,January,High,63,5,5
+Res_0081,2024-02-23 15:06:00,West,35-44,Prefer Not To Say,Professional,Phd,Tableau,3,Probably No,Average,Ease Of Use,Rarely,Could use some improvements.,2024-02-23,15,Friday,February,Medium,28,2,3
+Res_0082,2024-03-07 20:17:00,Central,55+,Prefer Not To Say,Retired,Phd,Power Bi,3,Definitely No,Average,Price,Weekly,Average experience.,2024-03-07,20,Thursday,March,Medium,19,1,3
+Res_0083,2024-02-04 10:54:00,South,18-24,Non-Binary,Retired,Bachelor'S,Spss,4,Probably Yes,Very Poor,Ease Of Use,Weekly,Best tool I've used so far.,2024-02-04,10,Sunday,February,High,27,4,1
+Res_0084,2024-03-13 19:42:00,West,35-44,Male,Retired,Master'S,Python,4,Probably No,Average,Integration,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-13,19,Wednesday,March,High,62,2,3
+Res_0085,2024-03-03 06:22:00,East,35-44,Non-Binary,Unemployed,Master'S,R,4,Not Sure,Poor,Security,Never,Highly recommended for beginners.,2024-03-03,6,Sunday,March,High,33,3,2
+Res_0086,2024-01-02 16:12:00,North,25-34,Prefer Not To Say,Retired,Other,R,4,Probably Yes,Poor,Integration,Daily,Excellent tool for data analysis.,2024-01-02,16,Tuesday,January,High,33,4,2
+Res_0087,2024-03-29 15:41:00,West,45-54,Male,Student,Master'S,R,3,Not Sure,Good,Performance,Daily,Could use some improvements.,2024-03-29,15,Friday,March,Medium,28,3,4
+Res_0088,2024-02-21 22:15:00,East,55+,Non-Binary,Retired,Other,Excel,3,Not Sure,Average,Price,Rarely,Average experience.,2024-02-21,22,Wednesday,February,Medium,19,3,3
+Res_0089,2024-02-14 13:47:00,Central,35-44,Non-Binary,Retired,Master'S,Excel,4,Definitely Yes,Excellent,Ease Of Use,Monthly,Love the features and support.,2024-02-14,13,Wednesday,February,High,30,5,5
+Res_0090,2024-02-02 07:07:00,South,35-44,Male,Unemployed,Bachelor'S,Excel,4,Probably Yes,Good,Ease Of Use,Daily,Excellent tool for data analysis.,2024-02-02,7,Friday,February,High,33,4,4
+Res_0091,2024-01-28 23:30:00,East,55+,Non-Binary,Student,Bachelor'S,R,2,Probably No,Poor,Ease Of Use,Weekly,Customer support could be better.,2024-01-28,23,Sunday,January,Low,33,2,2
+Res_0092,2024-01-30 11:11:00,East,18-24,Female,Business Owner,High School,Tableau,5,Definitely Yes,Average,Integration,Rarely,"Great product, very user-friendly!",2024-01-30,11,Tuesday,January,High,34,5,3
+Res_0093,2024-03-11 09:44:00,South,45-54,Male,Student,Other,Python,4,Definitely Yes,Good,Security,Weekly,Love the features and support. Python ecosystem is amazing!,2024-03-11,9,Monday,March,High,59,5,4
+Res_0094,2024-03-01 15:28:00,East,25-34,Male,Business Owner,Phd,R,4,Probably Yes,Good,Ease Of Use,Daily,"Great product, very user-friendly!",2024-03-01,15,Friday,March,High,34,4,4
+Res_0095,2024-01-09 12:31:00,North,55+,Male,Professional,Bachelor'S,Python,3,Probably Yes,Poor,Performance,Weekly,Average experience.,2024-01-09,12,Tuesday,January,Medium,19,4,2
+Res_0096,2024-02-08 02:15:00,North,55+,Prefer Not To Say,Unemployed,Other,Python,4,Definitely Yes,Excellent,Ease Of Use,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-08,2,Thursday,February,High,62,5,5
+Res_0097,2024-01-29 16:24:00,West,45-54,Non-Binary,Unemployed,Phd,Python,3,Probably Yes,Good,Support,Daily,Decent product overall.,2024-01-29,16,Monday,January,Medium,23,4,4
+Res_0098,2024-03-13 19:03:00,Central,18-24,Female,Professional,Master'S,Power Bi,4,Probably Yes,Excellent,Integration,Rarely,"Great product, very user-friendly!",2024-03-13,19,Wednesday,March,High,34,4,5
+Res_0099,2024-01-21 07:11:00,Central,18-24,Female,Student,Phd,Python,5,Probably Yes,Excellent,Ease Of Use,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-01-21,7,Sunday,January,High,56,4,5
+Res_0100,2024-03-29 19:30:00,East,18-24,Female,Business Owner,Master'S,R,4,Probably Yes,Good,Price,Monthly,Best tool I've used so far.,2024-03-29,19,Friday,March,High,27,4,4
+Res_0101,2024-01-10 21:14:00,East,55+,Female,Retired,High School,Python,4,Not Sure,Average,Price,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-10,21,Wednesday,January,High,62,3,3
+Res_0102,2024-01-29 20:09:00,East,25-34,Male,Student,Bachelor'S,R,4,Definitely Yes,Good,Ease Of Use,Daily,Love the features and support.,2024-01-29,20,Monday,January,High,30,5,4
+Res_0103,2024-03-17 23:52:00,Central,35-44,Prefer Not To Say,Student,Phd,Python,4,Definitely Yes,Excellent,Integration,Weekly,Love the features and support. Python ecosystem is amazing!,2024-03-17,23,Sunday,March,High,59,5,5
+Res_0104,2024-03-30 12:17:00,Central,55+,Prefer Not To Say,Retired,High School,Tableau,3,Not Sure,Good,Ease Of Use,Weekly,Average experience.,2024-03-30,12,Saturday,March,Medium,19,3,4
+Res_0105,2024-01-06 13:47:00,East,55+,Non-Binary,Student,High School,Excel,3,Definitely Yes,Good,Performance,Weekly,Could use some improvements.,2024-01-06,13,Saturday,January,Medium,28,5,4
+Res_0106,2024-03-27 18:37:00,North,35-44,Male,Professional,Phd,R,4,Definitely Yes,Very Poor,Price,Daily,Highly recommended for beginners.,2024-03-27,18,Wednesday,March,High,33,5,1
+Res_0107,2024-03-24 14:58:00,East,25-34,Prefer Not To Say,Retired,High School,Python,4,Definitely Yes,Excellent,Performance,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-03-24,14,Sunday,March,High,56,5,5
+Res_0108,2024-02-14 13:21:00,East,18-24,Female,Business Owner,Phd,Power Bi,4,Definitely Yes,Average,Price,Never,Best tool I've used so far.,2024-02-14,13,Wednesday,February,High,27,5,3
+Res_0109,2024-02-06 21:25:00,Central,18-24,Prefer Not To Say,Student,Master'S,Python,5,Not Sure,Poor,Ease Of Use,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-06,21,Tuesday,February,High,59,3,2
+Res_0110,2024-02-11 03:49:00,West,55+,Male,Unemployed,Phd,Tableau,4,Not Sure,Good,Price,Daily,Best tool I've used so far.,2024-02-11,3,Sunday,February,High,27,3,4
+Res_0111,2024-01-07 06:33:00,East,55+,Prefer Not To Say,Retired,High School,Tableau,3,Probably Yes,Average,Performance,Daily,Could use some improvements.,2024-01-07,6,Sunday,January,Medium,28,4,3
+Res_0112,2024-02-04 17:08:00,East,45-54,Prefer Not To Say,Student,High School,Excel,3,Probably Yes,Average,Ease Of Use,Weekly,Average experience.,2024-02-04,17,Sunday,February,Medium,19,4,3
+Res_0113,2024-01-31 22:10:00,East,55+,Male,Unemployed,Phd,R,3,Definitely Yes,Excellent,Security,Daily,"It's okay, does the job.",2024-01-31,22,Wednesday,January,Medium,24,5,5
+Res_0114,2024-01-29 03:29:00,North,25-34,Prefer Not To Say,Business Owner,Other,Tableau,4,Definitely Yes,Average,Integration,Weekly,Love the features and support.,2024-01-29,3,Monday,January,High,30,5,3
+Res_0115,2024-02-23 15:30:00,South,45-54,Female,Retired,Bachelor'S,Excel,3,Definitely No,Poor,Security,Daily,Average experience.,2024-02-23,15,Friday,February,Medium,19,1,2
+Res_0116,2024-03-06 23:56:00,South,18-24,Non-Binary,Retired,Master'S,Tableau,4,Not Sure,Excellent,Ease Of Use,Monthly,Highly recommended for beginners.,2024-03-06,23,Wednesday,March,High,33,3,5
+Res_0117,2024-02-04 00:18:00,East,55+,Prefer Not To Say,Professional,Phd,Excel,3,Not Sure,Good,Ease Of Use,Daily,Average experience.,2024-02-04,0,Sunday,February,Medium,19,3,4
+Res_0118,2024-03-02 11:21:00,Central,55+,Prefer Not To Say,Retired,Master'S,Power Bi,3,Not Sure,Average,Price,Rarely,Could use some improvements.,2024-03-02,11,Saturday,March,Medium,28,3,3
+Res_0119,2024-03-30 07:36:00,West,25-34,Prefer Not To Say,Student,Master'S,Python,4,Definitely Yes,Good,Ease Of Use,Monthly,Best tool I've used so far. Python ecosystem is amazing!,2024-03-30,7,Saturday,March,High,56,5,4
+Res_0120,2024-03-31 12:24:00,South,45-54,Male,Professional,Other,Excel,4,Definitely Yes,Poor,Performance,Weekly,Highly recommended for beginners.,2024-03-31,12,Sunday,March,High,33,5,2
+Res_0121,2024-02-12 03:55:00,West,18-24,Prefer Not To Say,Student,Bachelor'S,Power Bi,4,Not Sure,Good,Ease Of Use,Daily,Best tool I've used so far.,2024-02-12,3,Monday,February,High,27,3,4
+Res_0122,2024-03-24 04:04:00,West,35-44,Non-Binary,Unemployed,Phd,Tableau,4,Probably Yes,Good,Integration,Monthly,"Great product, very user-friendly!",2024-03-24,4,Sunday,March,High,34,4,4
+Res_0123,2024-02-12 21:54:00,Central,45-54,Non-Binary,Retired,Other,Python,3,Not Sure,Excellent,Price,Monthly,"It's okay, does the job.",2024-02-12,21,Monday,February,Medium,24,3,5
+Res_0124,2024-03-20 02:15:00,East,25-34,Male,Retired,High School,Power Bi,4,Definitely Yes,Poor,Ease Of Use,Monthly,"Great product, very user-friendly!",2024-03-20,2,Wednesday,March,High,34,5,2
+Res_0125,2024-02-26 05:44:00,East,18-24,Male,Business Owner,High School,Python,5,Definitely Yes,Good,Support,Monthly,Love the features and support. Python ecosystem is amazing!,2024-02-26,5,Monday,February,High,59,5,4
+Res_0126,2024-02-15 11:27:00,South,25-34,Prefer Not To Say,Unemployed,Bachelor'S,Excel,4,Probably Yes,Average,Performance,Daily,Excellent tool for data analysis.,2024-02-15,11,Thursday,February,High,33,4,3
+Res_0127,2024-01-23 02:39:00,West,55+,Female,Retired,Other,Python,4,Definitely Yes,Good,Security,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-23,2,Tuesday,January,High,62,5,4
+Res_0128,2024-01-30 14:40:00,East,45-54,Non-Binary,Student,Phd,Excel,4,Definitely Yes,Average,Ease Of Use,Rarely,Love the features and support.,2024-01-30,14,Tuesday,January,High,30,5,3
+Res_0129,2024-03-27 17:10:00,North,45-54,Non-Binary,Unemployed,Master'S,Power Bi,4,Not Sure,Average,Ease Of Use,Weekly,Best tool I've used so far.,2024-03-27,17,Wednesday,March,High,27,3,3
+Res_0130,2024-03-29 08:29:00,East,25-34,Prefer Not To Say,Retired,High School,Excel,4,Definitely Yes,Average,Security,Rarely,Excellent tool for data analysis.,2024-03-29,8,Friday,March,High,33,5,3
+Res_0131,2024-02-18 18:22:00,Central,35-44,Non-Binary,Student,Phd,Excel,5,Definitely Yes,Excellent,Ease Of Use,Monthly,Love the features and support.,2024-02-18,18,Sunday,February,High,30,5,5
+Res_0132,2024-01-02 18:55:00,North,55+,Prefer Not To Say,Business Owner,Bachelor'S,Python,4,Definitely Yes,Good,Price,Rarely,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-02,18,Tuesday,January,High,62,5,4
+Res_0133,2024-02-15 07:40:00,South,55+,Non-Binary,Professional,High School,R,4,Definitely Yes,Good,Performance,Daily,"Great product, very user-friendly!",2024-02-15,7,Thursday,February,High,34,5,4
+Res_0134,2024-02-09 14:02:00,Central,35-44,Female,Student,Master'S,Python,4,Definitely Yes,Good,Integration,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-09,14,Friday,February,High,59,5,4
+Res_0135,2024-02-23 05:12:00,South,55+,Non-Binary,Unemployed,Other,Excel,3,Definitely No,Excellent,Price,Daily,Decent product overall.,2024-02-23,5,Friday,February,Medium,23,1,5
+Res_0136,2024-01-22 08:58:00,West,35-44,Non-Binary,Student,Phd,Spss,4,Definitely Yes,Good,Ease Of Use,Monthly,"Great product, very user-friendly!",2024-01-22,8,Monday,January,High,34,5,4
+Res_0137,2024-01-19 07:55:00,West,55+,Non-Binary,Student,Phd,Python,4,Definitely Yes,Excellent,Performance,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-19,7,Friday,January,High,63,5,5
+Res_0138,2024-02-03 17:07:00,West,35-44,Non-Binary,Unemployed,Phd,Python,4,Probably Yes,Good,Price,Weekly,Love the features and support. Python ecosystem is amazing!,2024-02-03,17,Saturday,February,High,59,4,4
+Res_0139,2024-01-14 21:14:00,West,18-24,Non-Binary,Unemployed,Bachelor'S,Python,4,Definitely Yes,Poor,Security,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-14,21,Sunday,January,High,63,5,2
+Res_0140,2024-03-22 14:58:00,East,45-54,Male,Professional,High School,Python,4,Probably Yes,Good,Ease Of Use,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-22,14,Friday,March,High,63,4,4
+Res_0141,2024-02-08 15:07:00,North,25-34,Female,Retired,Phd,Excel,4,Definitely Yes,Excellent,Support,Daily,Love the features and support.,2024-02-08,15,Thursday,February,High,30,5,5
+Res_0142,2024-03-26 23:44:00,Central,45-54,Female,Retired,High School,Python,4,Probably Yes,Excellent,Support,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-03-26,23,Tuesday,March,High,56,4,5
+Res_0143,2024-03-19 13:17:00,North,35-44,Female,Retired,Phd,Python,5,Not Sure,Average,Price,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-19,13,Tuesday,March,High,62,3,3
+Res_0144,2024-02-16 03:43:00,East,55+,Non-Binary,Student,Phd,Python,3,Probably Yes,Poor,Ease Of Use,Daily,Decent product overall.,2024-02-16,3,Friday,February,Medium,23,4,2
+Res_0145,2024-01-25 03:54:00,West,18-24,Female,Unemployed,High School,Python,4,Not Sure,Average,Performance,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-25,3,Thursday,January,High,63,3,3
+Res_0146,2024-02-12 07:08:00,Central,25-34,Male,Unemployed,Bachelor'S,Excel,5,Definitely Yes,Good,Price,Weekly,Highly recommended for beginners.,2024-02-12,7,Monday,February,High,33,5,4
+Res_0147,2024-01-28 07:21:00,South,55+,Male,Business Owner,Bachelor'S,Excel,2,Definitely No,Average,Ease Of Use,Rarely,Too expensive for what it offers. Excel is too limiting for big data.,2024-01-28,7,Sunday,January,Low,69,1,3
+Res_0148,2024-03-10 08:51:00,South,18-24,Male,Professional,High School,Excel,4,Not Sure,Average,Performance,Daily,Love the features and support.,2024-03-10,8,Sunday,March,High,30,3,3
+Res_0149,2024-01-31 18:20:00,North,25-34,Non-Binary,Student,Bachelor'S,Python,5,Definitely Yes,Excellent,Support,Never,Best tool I've used so far. Python ecosystem is amazing!,2024-01-31,18,Wednesday,January,High,56,5,5
+Res_0150,2024-03-08 03:47:00,North,45-54,Prefer Not To Say,Business Owner,Other,R,4,Definitely Yes,Excellent,Ease Of Use,Rarely,Highly recommended for beginners.,2024-03-08,3,Friday,March,High,33,5,5
+Res_0151,2024-01-14 14:32:00,South,55+,Male,Unemployed,Master'S,Python,3,Not Sure,Average,Integration,Daily,Works as expected.,2024-01-14,14,Sunday,January,Medium,18,3,3
+Res_0152,2024-03-23 00:03:00,West,45-54,Prefer Not To Say,Student,Phd,Python,4,Definitely Yes,Poor,Integration,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-03-23,0,Saturday,March,High,56,5,2
+Res_0153,2024-01-10 02:20:00,Central,25-34,Male,Professional,Master'S,Excel,3,Definitely No,Good,Performance,Weekly,Average experience.,2024-01-10,2,Wednesday,January,Medium,19,1,4
+Res_0154,2024-03-22 18:35:00,East,45-54,Non-Binary,Retired,Other,Python,4,Definitely Yes,Average,Ease Of Use,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-22,18,Friday,March,High,62,5,3
+Res_0155,2024-02-25 03:50:00,North,55+,Female,Retired,Phd,Python,3,Probably Yes,Average,Performance,Weekly,Could use some improvements.,2024-02-25,3,Sunday,February,Medium,28,4,3
+Res_0156,2024-02-22 10:52:00,West,45-54,Prefer Not To Say,Student,Master'S,R,3,Not Sure,Poor,Price,Daily,Works as expected.,2024-02-22,10,Thursday,February,Medium,18,3,2
+Res_0157,2024-02-10 21:16:00,East,25-34,Prefer Not To Say,Student,High School,Python,5,Definitely Yes,Good,Price,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-10,21,Saturday,February,High,63,5,4
+Res_0158,2024-01-12 13:06:00,East,25-34,Male,Unemployed,Other,Tableau,4,Definitely Yes,Excellent,Support,Weekly,Highly recommended for beginners.,2024-01-12,13,Friday,January,High,33,5,5
+Res_0159,2024-02-12 21:07:00,West,35-44,Prefer Not To Say,Student,Master'S,Tableau,3,Probably No,Average,Price,Daily,Average experience.,2024-02-12,21,Monday,February,Medium,19,2,3
+Res_0160,2024-02-09 11:06:00,Central,55+,Female,Professional,Phd,Excel,3,Probably Yes,Excellent,Integration,Daily,Could use some improvements.,2024-02-09,11,Friday,February,Medium,28,4,5
+Res_0161,2024-01-14 11:54:00,Central,35-44,Male,Business Owner,Other,Spss,3,Not Sure,Poor,Support,Monthly,Could use some improvements.,2024-01-14,11,Sunday,January,Medium,28,3,2
+Res_0162,2024-02-24 17:49:00,Central,55+,Male,Unemployed,Master'S,Tableau,3,Not Sure,Poor,Performance,Weekly,"It's okay, does the job.",2024-02-24,17,Saturday,February,Medium,24,3,2
+Res_0163,2024-01-24 08:44:00,East,35-44,Non-Binary,Student,Bachelor'S,Python,5,Definitely Yes,Average,Ease Of Use,Rarely,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-24,8,Wednesday,January,High,62,5,3
+Res_0164,2024-03-13 21:25:00,North,25-34,Male,Student,Other,Spss,4,Not Sure,Good,Integration,Monthly,Excellent tool for data analysis.,2024-03-13,21,Wednesday,March,High,33,3,4
+Res_0165,2024-02-18 13:29:00,East,25-34,Non-Binary,Business Owner,Master'S,R,3,Definitely Yes,Excellent,Support,Daily,Average experience.,2024-02-18,13,Sunday,February,Medium,19,5,5
+Res_0166,2024-03-17 02:56:00,North,25-34,Female,Unemployed,High School,Excel,4,Definitely Yes,Good,Price,Monthly,"Great product, very user-friendly!",2024-03-17,2,Sunday,March,High,34,5,4
+Res_0167,2024-02-04 14:42:00,West,45-54,Prefer Not To Say,Retired,Master'S,Python,4,Probably Yes,Excellent,Ease Of Use,Rarely,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-04,14,Sunday,February,High,62,4,5
+Res_0168,2024-03-06 03:22:00,West,18-24,Non-Binary,Unemployed,Phd,Python,5,Not Sure,Good,Security,Monthly,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-06,3,Wednesday,March,High,62,3,4
+Res_0169,2024-03-26 09:02:00,South,45-54,Male,Student,Bachelor'S,Spss,4,Definitely Yes,Good,Price,Rarely,Love the features and support.,2024-03-26,9,Tuesday,March,High,30,5,4
+Res_0170,2024-01-28 04:48:00,East,35-44,Non-Binary,Student,High School,Spss,3,Not Sure,Good,Performance,Monthly,Works as expected.,2024-01-28,4,Sunday,January,Medium,18,3,4
+Res_0171,2024-02-25 05:08:00,West,55+,Female,Unemployed,Other,Python,3,Probably Yes,Excellent,Performance,Daily,Decent product overall.,2024-02-25,5,Sunday,February,Medium,23,4,5
+Res_0172,2024-01-10 12:55:00,North,45-54,Male,Retired,High School,Python,3,Definitely No,Good,Price,Weekly,Decent product overall.,2024-01-10,12,Wednesday,January,Medium,23,1,4
+Res_0173,2024-03-14 13:36:00,West,45-54,Non-Binary,Student,Phd,Python,4,Not Sure,Poor,Performance,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-14,13,Thursday,March,High,63,3,2
+Res_0174,2024-02-11 05:51:00,Central,45-54,Non-Binary,Student,Phd,Python,3,Definitely No,Good,Integration,Weekly,"It's okay, does the job.",2024-02-11,5,Sunday,February,Medium,24,1,4
+Res_0175,2024-02-01 13:37:00,West,55+,Male,Retired,Master'S,Excel,2,Not Sure,Excellent,Ease Of Use,Monthly,Customer support could be better. Excel is too limiting for big data.,2024-02-01,13,Thursday,February,Low,69,3,5
+Res_0176,2024-01-29 10:49:00,South,18-24,Male,Unemployed,Other,R,4,Definitely Yes,Very Poor,Integration,Rarely,Excellent tool for data analysis.,2024-01-29,10,Monday,January,High,33,5,1
+Res_0177,2024-02-14 11:46:00,South,25-34,Male,Professional,Master'S,Spss,4,Probably Yes,Average,Ease Of Use,Monthly,Excellent tool for data analysis.,2024-02-14,11,Wednesday,February,High,33,4,3
+Res_0178,2024-01-23 19:09:00,North,25-34,Prefer Not To Say,Retired,Other,Python,4,Definitely Yes,Good,Price,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-23,19,Tuesday,January,High,62,5,4
+Res_0179,2024-02-27 21:59:00,Central,55+,Non-Binary,Business Owner,Bachelor'S,Python,3,Definitely Yes,Poor,Security,Rarely,Works as expected.,2024-02-27,21,Tuesday,February,Medium,18,5,2
+Res_0180,2024-01-09 15:28:00,East,35-44,Male,Business Owner,Other,Tableau,4,Probably Yes,Average,Ease Of Use,Weekly,"Great product, very user-friendly!",2024-01-09,15,Tuesday,January,High,34,4,3
+Res_0181,2024-02-09 14:28:00,North,18-24,Non-Binary,Business Owner,High School,Python,5,Definitely Yes,Excellent,Performance,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-09,14,Friday,February,High,63,5,5
+Res_0182,2024-03-19 19:32:00,West,45-54,Male,Retired,Other,Python,3,Probably No,Good,Price,Weekly,Could use some improvements.,2024-03-19,19,Tuesday,March,Medium,28,2,4
+Res_0183,2024-02-11 19:30:00,Central,25-34,Male,Retired,High School,Power Bi,5,Definitely Yes,Good,Integration,Monthly,Love the features and support.,2024-02-11,19,Sunday,February,High,30,5,4
+Res_0184,2024-01-11 16:41:00,South,18-24,Female,Retired,Phd,Tableau,4,Not Sure,Poor,Support,Monthly,Highly recommended for beginners.,2024-01-11,16,Thursday,January,High,33,3,2
+Res_0185,2024-03-07 19:10:00,East,35-44,Non-Binary,Retired,Phd,Excel,4,Probably Yes,Excellent,Integration,Rarely,Love the features and support.,2024-03-07,19,Thursday,March,High,30,4,5
+Res_0186,2024-03-27 19:03:00,East,18-24,Non-Binary,Student,Other,Python,5,Probably Yes,Excellent,Ease Of Use,Monthly,Best tool I've used so far. Python ecosystem is amazing!,2024-03-27,19,Wednesday,March,High,56,4,5
+Res_0187,2024-02-06 08:46:00,Central,25-34,Non-Binary,Student,Other,Python,5,Definitely Yes,Excellent,Ease Of Use,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-06,8,Tuesday,February,High,62,5,5
+Res_0188,2024-02-14 09:41:00,West,25-34,Male,Business Owner,Other,Spss,4,Probably Yes,Excellent,Price,Weekly,Best tool I've used so far.,2024-02-14,9,Wednesday,February,High,27,4,5
+Res_0189,2024-03-23 10:52:00,South,55+,Male,Retired,Other,Power Bi,3,Not Sure,Very Poor,Performance,Weekly,Decent product overall.,2024-03-23,10,Saturday,March,Medium,23,3,1
+Res_0190,2024-01-03 11:19:00,South,25-34,Non-Binary,Retired,Bachelor'S,Spss,4,Definitely Yes,Poor,Support,Daily,Excellent tool for data analysis.,2024-01-03,11,Wednesday,January,High,33,5,2
+Res_0191,2024-01-18 04:04:00,East,18-24,Male,Business Owner,Other,R,4,Definitely Yes,Good,Price,Daily,Excellent tool for data analysis.,2024-01-18,4,Thursday,January,High,33,5,4
+Res_0192,2024-03-17 12:09:00,South,25-34,Female,Retired,High School,Power Bi,4,Probably No,Very Poor,Support,Daily,Best tool I've used so far.,2024-03-17,12,Sunday,March,High,27,2,1
+Res_0193,2024-02-16 21:46:00,South,45-54,Non-Binary,Retired,Bachelor'S,Power Bi,3,Not Sure,Average,Price,Daily,Average experience.,2024-02-16,21,Friday,February,Medium,19,3,3
+Res_0194,2024-01-31 09:51:00,West,25-34,Non-Binary,Unemployed,Phd,Spss,3,Probably Yes,Good,Ease Of Use,Monthly,Works as expected.,2024-01-31,9,Wednesday,January,Medium,18,4,4
+Res_0195,2024-02-06 12:32:00,Central,45-54,Female,Professional,Other,Tableau,4,Definitely Yes,Very Poor,Ease Of Use,Weekly,Excellent tool for data analysis.,2024-02-06,12,Tuesday,February,High,33,5,1
+Res_0196,2024-02-02 01:41:00,West,35-44,Male,Unemployed,High School,Power Bi,4,Definitely Yes,Good,Price,Daily,Love the features and support.,2024-02-02,1,Friday,February,High,30,5,4
+Res_0197,2024-01-11 05:17:00,West,55+,Female,Retired,High School,Spss,4,Definitely Yes,Excellent,Ease Of Use,Weekly,Excellent tool for data analysis.,2024-01-11,5,Thursday,January,High,33,5,5
+Res_0198,2024-02-27 11:59:00,North,45-54,Male,Retired,Other,Python,4,Not Sure,Good,Security,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-27,11,Tuesday,February,High,59,3,4
+Res_0199,2024-01-31 12:05:00,East,25-34,Male,Business Owner,High School,Power Bi,4,Probably Yes,Average,Price,Daily,Love the features and support.,2024-01-31,12,Wednesday,January,High,30,4,3
+Res_0200,2024-01-19 04:02:00,East,45-54,Female,Retired,Phd,Python,4,Not Sure,Average,Integration,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-19,4,Friday,January,High,62,3,3
+Res_0201,2024-01-01 02:01:00,East,25-34,Female,Unemployed,Other,Python,5,Definitely Yes,Good,Price,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-01,2,Monday,January,High,62,5,4
+Res_0202,2024-02-24 03:49:00,East,25-34,Non-Binary,Student,High School,Excel,4,Definitely Yes,Average,Ease Of Use,Weekly,Excellent tool for data analysis.,2024-02-24,3,Saturday,February,High,33,5,3
+Res_0203,2024-02-23 20:50:00,Central,45-54,Male,Student,Phd,Python,4,Definitely Yes,Average,Ease Of Use,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-23,20,Friday,February,High,62,5,3
+Res_0204,2024-03-09 00:40:00,Central,55+,Female,Professional,Master'S,Power Bi,3,Not Sure,Excellent,Performance,Daily,Works as expected.,2024-03-09,0,Saturday,March,Medium,18,3,5
+Res_0205,2024-01-01 19:22:00,South,55+,Prefer Not To Say,Professional,High School,Python,5,Probably Yes,Average,Ease Of Use,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-01,19,Monday,January,High,62,4,3
+Res_0206,2024-02-16 02:33:00,Central,55+,Male,Retired,Phd,Excel,3,Definitely Yes,Good,Ease Of Use,Daily,"It's okay, does the job.",2024-02-16,2,Friday,February,Medium,24,5,4
+Res_0207,2024-03-22 12:23:00,East,18-24,Non-Binary,Student,Master'S,R,4,Probably Yes,Poor,Ease Of Use,Daily,Excellent tool for data analysis.,2024-03-22,12,Friday,March,High,33,4,2
+Res_0208,2024-03-25 20:06:00,Central,35-44,Female,Student,Master'S,Python,4,Probably Yes,Average,Ease Of Use,Rarely,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-25,20,Monday,March,High,62,4,3
+Res_0209,2024-02-13 20:11:00,West,45-54,Female,Professional,High School,Python,5,Not Sure,Average,Integration,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-02-13,20,Tuesday,February,High,56,3,3
+Res_0210,2024-01-05 09:12:00,North,25-34,Male,Business Owner,Master'S,Tableau,5,Definitely Yes,Poor,Price,Monthly,Highly recommended for beginners.,2024-01-05,9,Friday,January,High,33,5,2
+Res_0211,2024-02-20 17:30:00,East,18-24,Female,Business Owner,Master'S,R,4,Probably Yes,Excellent,Ease Of Use,Daily,"Great product, very user-friendly!",2024-02-20,17,Tuesday,February,High,34,4,5
+Res_0212,2024-03-24 10:17:00,North,35-44,Prefer Not To Say,Retired,Phd,Python,5,Not Sure,Excellent,Security,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-03-24,10,Sunday,March,High,56,3,5
+Res_0213,2024-02-13 05:31:00,West,35-44,Non-Binary,Student,Phd,Python,5,Definitely Yes,Good,Price,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-13,5,Tuesday,February,High,63,5,4
+Res_0214,2024-02-25 19:52:00,South,55+,Non-Binary,Business Owner,High School,Spss,4,Probably No,Average,Ease Of Use,Weekly,"Great product, very user-friendly!",2024-02-25,19,Sunday,February,High,34,2,3
+Res_0215,2024-02-11 21:18:00,East,45-54,Prefer Not To Say,Professional,Phd,Python,4,Probably Yes,Average,Performance,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-11,21,Sunday,February,High,59,4,3
+Res_0216,2024-02-27 01:46:00,East,55+,Prefer Not To Say,Business Owner,High School,R,3,Definitely No,Excellent,Integration,Weekly,"It's okay, does the job.",2024-02-27,1,Tuesday,February,Medium,24,1,5
+Res_0217,2024-03-26 20:25:00,East,55+,Female,Student,Bachelor'S,R,3,Probably No,Poor,Performance,Daily,Average experience.,2024-03-26,20,Tuesday,March,Medium,19,2,2
+Res_0218,2024-03-27 14:02:00,South,18-24,Female,Business Owner,Master'S,Excel,5,Not Sure,Good,Price,Weekly,Best tool I've used so far.,2024-03-27,14,Wednesday,March,High,27,3,4
+Res_0219,2024-03-13 01:38:00,South,45-54,Non-Binary,Business Owner,Phd,Tableau,4,Not Sure,Excellent,Performance,Never,"Great product, very user-friendly!",2024-03-13,1,Wednesday,March,High,34,3,5
+Res_0220,2024-03-14 04:33:00,East,45-54,Non-Binary,Business Owner,Bachelor'S,Python,4,Not Sure,Good,Performance,Rarely,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-14,4,Thursday,March,High,63,3,4
+Res_0221,2024-01-04 23:11:00,West,55+,Prefer Not To Say,Unemployed,High School,Python,2,Probably No,Excellent,Price,Never,Customer support could be better.,2024-01-04,23,Thursday,January,Low,33,2,5
+Res_0222,2024-02-03 22:28:00,South,55+,Non-Binary,Retired,Bachelor'S,R,3,Not Sure,Good,Integration,Daily,"It's okay, does the job.",2024-02-03,22,Saturday,February,Medium,24,3,4
+Res_0223,2024-01-18 02:28:00,South,45-54,Male,Business Owner,Master'S,Spss,3,Definitely Yes,Excellent,Price,Daily,"It's okay, does the job.",2024-01-18,2,Thursday,January,Medium,24,5,5
+Res_0224,2024-03-11 17:18:00,East,25-34,Female,Business Owner,Other,Tableau,4,Definitely Yes,Good,Price,Monthly,Excellent tool for data analysis.,2024-03-11,17,Monday,March,High,33,5,4
+Res_0225,2024-01-16 06:50:00,South,25-34,Prefer Not To Say,Student,Master'S,Python,5,Definitely Yes,Poor,Support,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-16,6,Tuesday,January,High,62,5,2
+Res_0226,2024-03-14 11:29:00,Central,25-34,Male,Student,Master'S,Power Bi,5,Definitely Yes,Excellent,Ease Of Use,Daily,Best tool I've used so far.,2024-03-14,11,Thursday,March,High,27,5,5
+Res_0227,2024-03-02 16:26:00,West,55+,Male,Professional,Master'S,R,3,Definitely No,Good,Price,Daily,"It's okay, does the job.",2024-03-02,16,Saturday,March,Medium,24,1,4
+Res_0228,2024-02-27 14:43:00,Central,35-44,Female,Unemployed,Other,Python,4,Definitely No,Very Poor,Ease Of Use,Never,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-27,14,Tuesday,February,High,62,1,1
+Res_0229,2024-01-17 13:32:00,North,18-24,Female,Business Owner,Bachelor'S,Excel,4,Definitely Yes,Good,Support,Daily,Excellent tool for data analysis.,2024-01-17,13,Wednesday,January,High,33,5,4
+Res_0230,2024-02-11 22:14:00,East,55+,Non-Binary,Student,Master'S,Python,4,Definitely Yes,Average,Ease Of Use,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-11,22,Sunday,February,High,62,5,3
+Res_0231,2024-03-22 17:17:00,South,35-44,Male,Unemployed,Bachelor'S,Spss,4,Definitely Yes,Poor,Ease Of Use,Weekly,Highly recommended for beginners.,2024-03-22,17,Friday,March,High,33,5,2
+Res_0232,2024-03-15 04:10:00,Central,55+,Non-Binary,Unemployed,High School,Power Bi,3,Definitely No,Average,Price,Weekly,"It's okay, does the job.",2024-03-15,4,Friday,March,Medium,24,1,3
+Res_0233,2024-01-11 01:41:00,Central,35-44,Female,Unemployed,Phd,Power Bi,3,Definitely No,Average,Support,Daily,Average experience.,2024-01-11,1,Thursday,January,Medium,19,1,3
+Res_0234,2024-03-22 00:31:00,Central,35-44,Non-Binary,Retired,Bachelor'S,Tableau,4,Definitely Yes,Average,Ease Of Use,Weekly,Best tool I've used so far.,2024-03-22,0,Friday,March,High,27,5,3
+Res_0235,2024-02-08 14:04:00,North,25-34,Prefer Not To Say,Retired,Phd,Spss,5,Probably Yes,Good,Support,Rarely,Best tool I've used so far.,2024-02-08,14,Thursday,February,High,27,4,4
+Res_0236,2024-01-27 10:38:00,South,35-44,Non-Binary,Business Owner,Phd,Excel,4,Definitely Yes,Average,Integration,Monthly,Excellent tool for data analysis.,2024-01-27,10,Saturday,January,High,33,5,3
+Res_0237,2024-02-17 16:35:00,North,35-44,Female,Retired,High School,Tableau,5,Definitely Yes,Good,Ease Of Use,Daily,Love the features and support.,2024-02-17,16,Saturday,February,High,30,5,4
+Res_0238,2024-02-27 07:09:00,North,18-24,Non-Binary,Retired,Other,Python,5,Definitely Yes,Average,Price,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-02-27,7,Tuesday,February,High,56,5,3
+Res_0239,2024-02-01 05:52:00,East,55+,Non-Binary,Professional,Bachelor'S,Python,3,Definitely Yes,Average,Support,Weekly,Works as expected.,2024-02-01,5,Thursday,February,Medium,18,5,3
+Res_0240,2024-03-06 14:31:00,East,45-54,Male,Student,Phd,R,3,Probably Yes,Poor,Performance,Weekly,Average experience.,2024-03-06,14,Wednesday,March,Medium,19,4,2
+Res_0241,2024-02-28 07:13:00,Central,35-44,Male,Student,Master'S,Python,4,Definitely Yes,Average,Performance,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-02-28,7,Wednesday,February,High,56,5,3
+Res_0242,2024-03-17 20:43:00,West,35-44,Male,Student,Phd,Tableau,3,Probably No,Average,Security,Daily,Could use some improvements.,2024-03-17,20,Sunday,March,Medium,28,2,3
+Res_0243,2024-02-03 23:23:00,West,35-44,Male,Retired,High School,Python,4,Not Sure,Excellent,Security,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-03,23,Saturday,February,High,62,3,5
+Res_0244,2024-03-12 06:23:00,Central,35-44,Male,Retired,Other,Python,4,Definitely Yes,Good,Performance,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-03-12,6,Tuesday,March,High,56,5,4
+Res_0245,2024-03-11 08:52:00,Central,55+,Male,Professional,High School,Power Bi,2,Probably No,Average,Performance,Weekly,Some features are buggy.,2024-03-11,8,Monday,March,Low,24,2,3
+Res_0246,2024-02-17 10:35:00,East,25-34,Female,Unemployed,Other,Python,5,Definitely Yes,Average,Ease Of Use,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-02-17,10,Saturday,February,High,56,5,3
+Res_0247,2024-03-05 01:02:00,North,25-34,Non-Binary,Retired,Other,Excel,4,Definitely Yes,Very Poor,Price,Monthly,Best tool I've used so far.,2024-03-05,1,Tuesday,March,High,27,5,1
+Res_0248,2024-01-20 19:57:00,Central,25-34,Non-Binary,Unemployed,Master'S,Excel,4,Definitely Yes,Average,Security,Weekly,Excellent tool for data analysis.,2024-01-20,19,Saturday,January,High,33,5,3
+Res_0249,2024-02-20 19:47:00,East,55+,Non-Binary,Unemployed,Other,Tableau,3,Probably Yes,Average,Price,Monthly,Average experience.,2024-02-20,19,Tuesday,February,Medium,19,4,3
+Res_0250,2024-03-03 22:36:00,East,45-54,Male,Business Owner,Master'S,Power Bi,4,Definitely Yes,Good,Integration,Daily,"Great product, very user-friendly!",2024-03-03,22,Sunday,March,High,34,5,4
+Res_0251,2024-02-23 18:19:00,North,55+,Prefer Not To Say,Business Owner,Other,Tableau,5,Definitely Yes,Good,Price,Weekly,Highly recommended for beginners.,2024-02-23,18,Friday,February,High,33,5,4
+Res_0252,2024-01-30 23:03:00,Central,45-54,Female,Unemployed,Other,Python,3,Not Sure,Poor,Performance,Daily,Works as expected.,2024-01-30,23,Tuesday,January,Medium,18,3,2
+Res_0253,2024-01-19 21:15:00,North,55+,Male,Professional,High School,Python,4,Definitely Yes,Excellent,Performance,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-01-19,21,Friday,January,High,56,5,5
+Res_0254,2024-02-10 13:09:00,West,25-34,Prefer Not To Say,Unemployed,Other,R,5,Definitely No,Excellent,Support,Weekly,Best tool I've used so far.,2024-02-10,13,Saturday,February,High,27,1,5
+Res_0255,2024-01-08 22:08:00,Central,25-34,Non-Binary,Retired,Other,Excel,4,Definitely No,Excellent,Ease Of Use,Monthly,Best tool I've used so far.,2024-01-08,22,Monday,January,High,27,1,5
+Res_0256,2024-02-10 05:29:00,Central,35-44,Non-Binary,Business Owner,Other,Excel,4,Definitely Yes,Excellent,Ease Of Use,Rarely,Best tool I've used so far.,2024-02-10,5,Saturday,February,High,27,5,5
+Res_0257,2024-01-25 07:17:00,Central,35-44,Female,Business Owner,Master'S,Python,4,Definitely Yes,Excellent,Price,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-25,7,Thursday,January,High,62,5,5
+Res_0258,2024-03-29 22:31:00,East,45-54,Non-Binary,Unemployed,Master'S,Tableau,4,Definitely Yes,Average,Integration,Weekly,Love the features and support.,2024-03-29,22,Friday,March,High,30,5,3
+Res_0259,2024-01-16 18:43:00,Central,45-54,Prefer Not To Say,Business Owner,Bachelor'S,Excel,3,Not Sure,Very Poor,Support,Weekly,Decent product overall.,2024-01-16,18,Tuesday,January,Medium,23,3,1
+Res_0260,2024-01-06 09:45:00,North,35-44,Prefer Not To Say,Business Owner,Phd,Excel,3,Probably Yes,Excellent,Price,Never,Could use some improvements.,2024-01-06,9,Saturday,January,Medium,28,4,5
+Res_0261,2024-01-26 17:17:00,Central,35-44,Female,Student,Other,Python,4,Definitely Yes,Excellent,Performance,Monthly,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-26,17,Friday,January,High,62,5,5
+Res_0262,2024-01-31 07:03:00,Central,25-34,Female,Student,High School,Excel,4,Probably Yes,Average,Integration,Daily,Best tool I've used so far.,2024-01-31,7,Wednesday,January,High,27,4,3
+Res_0263,2024-02-12 22:30:00,North,25-34,Male,Unemployed,Bachelor'S,Python,5,Probably Yes,Good,Price,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-02-12,22,Monday,February,High,56,4,4
+Res_0264,2024-03-24 15:30:00,South,35-44,Non-Binary,Business Owner,High School,Power Bi,4,Definitely Yes,Poor,Integration,Monthly,"Great product, very user-friendly!",2024-03-24,15,Sunday,March,High,34,5,2
+Res_0265,2024-03-24 18:14:00,Central,18-24,Female,Retired,Bachelor'S,Python,4,Definitely Yes,Excellent,Security,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-24,18,Sunday,March,High,63,5,5
+Res_0266,2024-02-20 15:11:00,East,18-24,Male,Business Owner,Other,R,4,Definitely Yes,Good,Price,Weekly,Highly recommended for beginners.,2024-02-20,15,Tuesday,February,High,33,5,4
+Res_0267,2024-01-14 10:18:00,West,55+,Prefer Not To Say,Professional,Other,Power Bi,3,Probably No,Excellent,Integration,Daily,Works as expected.,2024-01-14,10,Sunday,January,Medium,18,2,5
+Res_0268,2024-02-04 06:51:00,North,35-44,Female,Retired,Master'S,Tableau,4,Definitely Yes,Poor,Integration,Monthly,Excellent tool for data analysis.,2024-02-04,6,Sunday,February,High,33,5,2
+Res_0269,2024-01-02 23:21:00,East,55+,Female,Professional,Other,Tableau,3,Probably Yes,Excellent,Support,Daily,Works as expected.,2024-01-02,23,Tuesday,January,Medium,18,4,5
+Res_0270,2024-02-24 16:20:00,North,45-54,Male,Professional,Bachelor'S,Spss,3,Not Sure,Average,Ease Of Use,Rarely,Works as expected.,2024-02-24,16,Saturday,February,Medium,18,3,3
+Res_0271,2024-02-11 07:00:00,East,45-54,Female,Retired,Master'S,Power Bi,5,Probably Yes,Excellent,Price,Daily,Love the features and support.,2024-02-11,7,Sunday,February,High,30,4,5
+Res_0272,2024-02-08 18:46:00,Central,18-24,Non-Binary,Business Owner,Bachelor'S,Python,5,Definitely Yes,Excellent,Ease Of Use,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-08,18,Thursday,February,High,63,5,5
+Res_0273,2024-03-26 03:29:00,East,25-34,Prefer Not To Say,Unemployed,Master'S,Spss,4,Definitely Yes,Good,Price,Weekly,"Great product, very user-friendly!",2024-03-26,3,Tuesday,March,High,34,5,4
+Res_0274,2024-03-22 09:23:00,Central,25-34,Female,Professional,Phd,Python,5,Probably Yes,Good,Price,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-22,9,Friday,March,High,62,4,4
+Res_0275,2024-02-28 23:38:00,East,45-54,Prefer Not To Say,Unemployed,Bachelor'S,Python,4,Definitely No,Excellent,Support,Never,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-28,23,Wednesday,February,High,62,1,5
+Res_0276,2024-03-28 19:55:00,North,55+,Prefer Not To Say,Unemployed,Master'S,Python,4,Definitely Yes,Excellent,Performance,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-28,19,Thursday,March,High,63,5,5
+Res_0277,2024-03-13 03:03:00,Central,55+,Female,Unemployed,Other,Tableau,4,Definitely No,Poor,Price,Daily,Excellent tool for data analysis.,2024-03-13,3,Wednesday,March,High,33,1,2
+Res_0278,2024-01-22 10:54:00,Central,45-54,Male,Professional,Other,Excel,3,Not Sure,Good,Ease Of Use,Rarely,Works as expected.,2024-01-22,10,Monday,January,Medium,18,3,4
+Res_0279,2024-01-12 16:28:00,North,45-54,Female,Unemployed,Phd,R,3,Probably Yes,Average,Support,Monthly,Works as expected.,2024-01-12,16,Friday,January,Medium,18,4,3
+Res_0280,2024-03-13 01:35:00,West,35-44,Male,Retired,Master'S,Python,4,Definitely Yes,Good,Ease Of Use,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-13,1,Wednesday,March,High,63,5,4
+Res_0281,2024-01-28 18:04:00,North,45-54,Non-Binary,Student,Other,Tableau,4,Definitely Yes,Excellent,Ease Of Use,Never,"Great product, very user-friendly!",2024-01-28,18,Sunday,January,High,34,5,5
+Res_0282,2024-01-09 15:02:00,East,45-54,Female,Professional,Phd,Tableau,3,Definitely No,Good,Ease Of Use,Weekly,Decent product overall.,2024-01-09,15,Tuesday,January,Medium,23,1,4
+Res_0283,2024-02-18 14:55:00,West,45-54,Male,Unemployed,Bachelor'S,R,3,Probably Yes,Average,Price,Daily,Decent product overall.,2024-02-18,14,Sunday,February,Medium,23,4,3
+Res_0284,2024-01-16 05:34:00,West,55+,Female,Professional,High School,Python,4,Definitely Yes,Average,Integration,Never,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-16,5,Tuesday,January,High,63,5,3
+Res_0285,2024-02-08 14:43:00,Central,45-54,Prefer Not To Say,Professional,Bachelor'S,Power Bi,4,Definitely Yes,Good,Integration,Daily,Best tool I've used so far.,2024-02-08,14,Thursday,February,High,27,5,4
+Res_0286,2024-02-14 04:17:00,South,18-24,Male,Retired,Other,Spss,4,Definitely Yes,Average,Support,Rarely,"Great product, very user-friendly!",2024-02-14,4,Wednesday,February,High,34,5,3
+Res_0287,2024-01-31 06:04:00,North,55+,Male,Retired,Other,Excel,3,Not Sure,Excellent,Support,Weekly,"It's okay, does the job.",2024-01-31,6,Wednesday,January,Medium,24,3,5
+Res_0288,2024-02-01 23:02:00,West,45-54,Female,Unemployed,Bachelor'S,Tableau,4,Definitely Yes,Excellent,Support,Daily,"Great product, very user-friendly!",2024-02-01,23,Thursday,February,High,34,5,5
+Res_0289,2024-01-18 16:18:00,South,55+,Non-Binary,Unemployed,Other,Python,3,Probably Yes,Good,Integration,Weekly,Decent product overall.,2024-01-18,16,Thursday,January,Medium,23,4,4
+Res_0290,2024-01-31 09:56:00,South,55+,Female,Retired,Master'S,Python,4,Definitely Yes,Excellent,Support,Monthly,Love the features and support. Python ecosystem is amazing!,2024-01-31,9,Wednesday,January,High,59,5,5
+Res_0291,2024-01-08 17:37:00,South,45-54,Prefer Not To Say,Student,Master'S,R,4,Definitely Yes,Good,Ease Of Use,Weekly,Best tool I've used so far.,2024-01-08,17,Monday,January,High,27,5,4
+Res_0292,2024-03-08 10:44:00,West,45-54,Female,Business Owner,Phd,Tableau,5,Probably Yes,Good,Ease Of Use,Never,Excellent tool for data analysis.,2024-03-08,10,Friday,March,High,33,4,4
+Res_0293,2024-03-09 15:15:00,South,35-44,Female,Retired,High School,Power Bi,4,Probably Yes,Poor,Support,Daily,Highly recommended for beginners.,2024-03-09,15,Saturday,March,High,33,4,2
+Res_0294,2024-02-22 13:35:00,Central,25-34,Prefer Not To Say,Professional,Master'S,Excel,5,Not Sure,Good,Performance,Weekly,Excellent tool for data analysis.,2024-02-22,13,Thursday,February,High,33,3,4
+Res_0295,2024-02-12 20:05:00,West,35-44,Male,Unemployed,Bachelor'S,Python,4,Definitely Yes,Excellent,Ease Of Use,Rarely,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-12,20,Monday,February,High,63,5,5
+Res_0296,2024-02-04 12:43:00,Central,55+,Male,Student,Bachelor'S,Excel,3,Probably Yes,Poor,Integration,Monthly,Average experience.,2024-02-04,12,Sunday,February,Medium,19,4,2
+Res_0297,2024-03-26 17:13:00,West,25-34,Non-Binary,Business Owner,High School,Power Bi,4,Definitely Yes,Average,Support,Monthly,Excellent tool for data analysis.,2024-03-26,17,Tuesday,March,High,33,5,3
+Res_0298,2024-01-25 23:07:00,West,25-34,Female,Retired,Bachelor'S,Tableau,4,Definitely Yes,Good,Security,Rarely,Highly recommended for beginners.,2024-01-25,23,Thursday,January,High,33,5,4
+Res_0299,2024-02-11 09:24:00,West,55+,Non-Binary,Business Owner,Master'S,Python,4,Probably Yes,Average,Performance,Weekly,Love the features and support. Python ecosystem is amazing!,2024-02-11,9,Sunday,February,High,59,4,3
+Res_0300,2024-03-06 15:29:00,North,45-54,Non-Binary,Professional,Master'S,Tableau,4,Probably Yes,Good,Price,Weekly,Love the features and support.,2024-03-06,15,Wednesday,March,High,30,4,4
+Res_0301,2024-02-22 01:36:00,South,25-34,Male,Business Owner,Other,R,5,Not Sure,Average,Integration,Daily,Highly recommended for beginners.,2024-02-22,1,Thursday,February,High,33,3,3
+Res_0302,2024-03-15 23:26:00,East,25-34,Female,Business Owner,Bachelor'S,R,4,Definitely Yes,Good,Support,Never,Best tool I've used so far.,2024-03-15,23,Friday,March,High,27,5,4
+Res_0303,2024-03-13 07:31:00,Central,35-44,Non-Binary,Retired,Phd,Python,5,Definitely Yes,Average,Support,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-03-13,7,Wednesday,March,High,56,5,3
+Res_0304,2024-01-22 23:50:00,East,25-34,Female,Unemployed,Phd,Python,4,Definitely Yes,Average,Price,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-22,23,Monday,January,High,62,5,3
+Res_0305,2024-03-10 20:03:00,Central,18-24,Male,Student,High School,Power Bi,3,Definitely Yes,Good,Integration,Never,Works as expected.,2024-03-10,20,Sunday,March,Medium,18,5,4
+Res_0306,2024-01-18 20:14:00,North,25-34,Male,Professional,Other,Python,4,Definitely Yes,Average,Integration,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-01-18,20,Thursday,January,High,56,5,3
+Res_0307,2024-02-17 01:39:00,Central,45-54,Prefer Not To Say,Student,High School,Excel,4,Definitely Yes,Average,Performance,Monthly,Highly recommended for beginners.,2024-02-17,1,Saturday,February,High,33,5,3
+Res_0308,2024-03-11 13:00:00,North,55+,Non-Binary,Unemployed,Master'S,Python,3,Not Sure,Good,Price,Daily,"It's okay, does the job.",2024-03-11,13,Monday,March,Medium,24,3,4
+Res_0309,2024-03-05 22:43:00,West,25-34,Male,Student,Other,Excel,5,Probably Yes,Average,Support,Daily,Excellent tool for data analysis.,2024-03-05,22,Tuesday,March,High,33,4,3
+Res_0310,2024-01-31 06:39:00,Central,35-44,Non-Binary,Business Owner,Phd,Power Bi,5,Definitely Yes,Excellent,Ease Of Use,Daily,"Great product, very user-friendly!",2024-01-31,6,Wednesday,January,High,34,5,5
+Res_0311,2024-02-17 12:29:00,Central,25-34,Female,Business Owner,High School,Power Bi,4,Definitely Yes,Good,Ease Of Use,Daily,"Great product, very user-friendly!",2024-02-17,12,Saturday,February,High,34,5,4
+Res_0312,2024-01-12 12:24:00,West,55+,Prefer Not To Say,Student,High School,Python,4,Definitely Yes,Excellent,Price,Monthly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-12,12,Friday,January,High,62,5,5
+Res_0313,2024-01-11 15:54:00,West,35-44,Male,Unemployed,High School,Spss,4,Definitely Yes,Good,Integration,Daily,Excellent tool for data analysis.,2024-01-11,15,Thursday,January,High,33,5,4
+Res_0314,2024-01-28 22:56:00,Central,45-54,Non-Binary,Student,High School,Excel,4,Probably Yes,Good,Price,Weekly,Love the features and support.,2024-01-28,22,Sunday,January,High,30,4,4
+Res_0315,2024-03-10 18:42:00,North,25-34,Non-Binary,Student,Bachelor'S,Python,4,Definitely Yes,Excellent,Support,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-10,18,Sunday,March,High,62,5,5
+Res_0316,2024-01-19 22:52:00,West,18-24,Non-Binary,Professional,Other,R,4,Definitely Yes,Poor,Performance,Weekly,Excellent tool for data analysis.,2024-01-19,22,Friday,January,High,33,5,2
+Res_0317,2024-03-13 12:43:00,Central,35-44,Prefer Not To Say,Professional,High School,Power Bi,4,Probably Yes,Good,Performance,Daily,Highly recommended for beginners.,2024-03-13,12,Wednesday,March,High,33,4,4
+Res_0318,2024-02-14 01:06:00,West,25-34,Male,Business Owner,Other,Python,5,Probably Yes,Good,Price,Monthly,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-14,1,Wednesday,February,High,62,4,4
+Res_0319,2024-03-17 12:49:00,East,18-24,Non-Binary,Retired,Phd,Tableau,5,Definitely Yes,Average,Support,Never,Excellent tool for data analysis.,2024-03-17,12,Sunday,March,High,33,5,3
+Res_0320,2024-02-15 17:24:00,West,25-34,Prefer Not To Say,Student,Other,Python,4,Definitely Yes,Excellent,Ease Of Use,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-15,17,Thursday,February,High,59,5,5
+Res_0321,2024-02-01 22:04:00,North,35-44,Female,Retired,Bachelor'S,Power Bi,3,Not Sure,Good,Integration,Daily,Works as expected.,2024-02-01,22,Thursday,February,Medium,18,3,4
+Res_0322,2024-02-10 11:06:00,North,18-24,Non-Binary,Retired,Master'S,R,4,Definitely Yes,Excellent,Security,Daily,Love the features and support.,2024-02-10,11,Saturday,February,High,30,5,5
+Res_0323,2024-01-14 04:05:00,South,45-54,Prefer Not To Say,Unemployed,Other,Excel,3,Probably No,Excellent,Support,Never,Average experience.,2024-01-14,4,Sunday,January,Medium,19,2,5
+Res_0324,2024-02-22 03:01:00,North,35-44,Male,Unemployed,Other,R,3,Definitely No,Excellent,Price,Daily,Decent product overall.,2024-02-22,3,Thursday,February,Medium,23,1,5
+Res_0325,2024-02-19 00:18:00,West,45-54,Male,Unemployed,Bachelor'S,Tableau,3,Not Sure,Good,Security,Weekly,Average experience.,2024-02-19,0,Monday,February,Medium,19,3,4
+Res_0326,2024-03-07 05:43:00,West,25-34,Female,Business Owner,Master'S,Python,5,Definitely Yes,Excellent,Performance,Daily,Love the features and support. Python ecosystem is amazing!,2024-03-07,5,Thursday,March,High,59,5,5
+Res_0327,2024-03-04 04:04:00,South,45-54,Non-Binary,Retired,Master'S,Power Bi,4,Definitely Yes,Poor,Support,Daily,Best tool I've used so far.,2024-03-04,4,Monday,March,High,27,5,2
+Res_0328,2024-01-10 11:16:00,South,45-54,Female,Retired,High School,Tableau,5,Definitely Yes,Excellent,Price,Weekly,Excellent tool for data analysis.,2024-01-10,11,Wednesday,January,High,33,5,5
+Res_0329,2024-02-08 00:25:00,East,55+,Prefer Not To Say,Business Owner,Phd,Python,3,Probably Yes,Average,Price,Daily,Decent product overall.,2024-02-08,0,Thursday,February,Medium,23,4,3
+Res_0330,2024-02-25 20:38:00,South,35-44,Non-Binary,Unemployed,Bachelor'S,Excel,5,Probably Yes,Good,Ease Of Use,Monthly,Best tool I've used so far.,2024-02-25,20,Sunday,February,High,27,4,4
+Res_0331,2024-02-10 05:25:00,East,35-44,Prefer Not To Say,Unemployed,Bachelor'S,Python,4,Definitely Yes,Average,Price,Daily,Love the features and support. Python ecosystem is amazing!,2024-02-10,5,Saturday,February,High,59,5,3
+Res_0332,2024-02-18 08:52:00,West,35-44,Male,Unemployed,Bachelor'S,Power Bi,3,Probably No,Poor,Performance,Weekly,Average experience.,2024-02-18,8,Sunday,February,Medium,19,2,2
+Res_0333,2024-03-10 05:43:00,Central,18-24,Prefer Not To Say,Professional,Phd,Spss,4,Not Sure,Average,Performance,Daily,Love the features and support.,2024-03-10,5,Sunday,March,High,30,3,3
+Res_0334,2024-03-29 02:52:00,West,45-54,Female,Business Owner,Bachelor'S,Tableau,4,Probably Yes,Good,Integration,Never,Love the features and support.,2024-03-29,2,Friday,March,High,30,4,4
+Res_0335,2024-03-25 04:45:00,West,45-54,Male,Retired,Other,Python,3,Not Sure,Good,Price,Monthly,Works as expected.,2024-03-25,4,Monday,March,Medium,18,3,4
+Res_0336,2024-03-15 12:34:00,Central,45-54,Male,Business Owner,Other,Excel,4,Not Sure,Average,Ease Of Use,Weekly,Highly recommended for beginners.,2024-03-15,12,Friday,March,High,33,3,3
+Res_0337,2024-03-22 02:06:00,South,35-44,Female,Unemployed,High School,Power Bi,4,Not Sure,Good,Security,Daily,Highly recommended for beginners.,2024-03-22,2,Friday,March,High,33,3,4
+Res_0338,2024-03-23 21:41:00,West,35-44,Prefer Not To Say,Student,High School,Python,4,Definitely Yes,Poor,Price,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-23,21,Saturday,March,High,63,5,2
+Res_0339,2024-02-03 07:32:00,Central,55+,Female,Retired,Master'S,Excel,3,Probably No,Poor,Price,Never,Works as expected.,2024-02-03,7,Saturday,February,Medium,18,2,2
+Res_0340,2024-02-29 21:37:00,Central,25-34,Non-Binary,Student,Phd,Excel,4,Definitely No,Average,Price,Daily,"Great product, very user-friendly!",2024-02-29,21,Thursday,February,High,34,1,3
+Res_0341,2024-02-07 13:58:00,North,18-24,Female,Business Owner,Master'S,Tableau,4,Definitely Yes,Good,Price,Monthly,Love the features and support.,2024-02-07,13,Wednesday,February,High,30,5,4
+Res_0342,2024-02-28 06:33:00,West,35-44,Prefer Not To Say,Student,Phd,Power Bi,4,Definitely Yes,Average,Ease Of Use,Rarely,Best tool I've used so far.,2024-02-28,6,Wednesday,February,High,27,5,3
+Res_0343,2024-02-10 02:19:00,North,18-24,Male,Business Owner,High School,Tableau,5,Definitely Yes,Good,Integration,Weekly,Excellent tool for data analysis.,2024-02-10,2,Saturday,February,High,33,5,4
+Res_0344,2024-02-01 16:11:00,Central,25-34,Non-Binary,Unemployed,Phd,Excel,4,Definitely Yes,Poor,Performance,Daily,Best tool I've used so far.,2024-02-01,16,Thursday,February,High,27,5,2
+Res_0345,2024-01-30 12:40:00,South,25-34,Prefer Not To Say,Retired,High School,Tableau,4,Definitely Yes,Good,Support,Weekly,Highly recommended for beginners.,2024-01-30,12,Tuesday,January,High,33,5,4
+Res_0346,2024-01-26 14:37:00,West,45-54,Male,Professional,Bachelor'S,Excel,3,Probably Yes,Average,Performance,Never,Decent product overall.,2024-01-26,14,Friday,January,Medium,23,4,3
+Res_0347,2024-03-31 02:36:00,North,55+,Female,Business Owner,Master'S,Excel,3,Probably Yes,Average,Ease Of Use,Daily,Could use some improvements.,2024-03-31,2,Sunday,March,Medium,28,4,3
+Res_0348,2024-02-28 03:16:00,West,55+,Non-Binary,Unemployed,Phd,Power Bi,3,Probably Yes,Average,Performance,Weekly,Average experience.,2024-02-28,3,Wednesday,February,Medium,19,4,3
+Res_0349,2024-02-20 18:07:00,East,35-44,Prefer Not To Say,Unemployed,Bachelor'S,Excel,3,Probably Yes,Excellent,Performance,Weekly,Decent product overall.,2024-02-20,18,Tuesday,February,Medium,23,4,5
+Res_0350,2024-03-19 18:05:00,South,35-44,Male,Professional,Master'S,Spss,4,Not Sure,Average,Support,Weekly,"Great product, very user-friendly!",2024-03-19,18,Tuesday,March,High,34,3,3
+Res_0351,2024-01-24 11:44:00,South,55+,Prefer Not To Say,Retired,Other,R,3,Not Sure,Excellent,Price,Weekly,Could use some improvements.,2024-01-24,11,Wednesday,January,Medium,28,3,5
+Res_0352,2024-03-14 12:27:00,South,45-54,Female,Unemployed,Bachelor'S,Power Bi,4,Definitely Yes,Good,Security,Daily,Best tool I've used so far.,2024-03-14,12,Thursday,March,High,27,5,4
+Res_0353,2024-02-06 04:11:00,East,45-54,Male,Business Owner,High School,R,3,Probably No,Good,Security,Monthly,Works as expected.,2024-02-06,4,Tuesday,February,Medium,18,2,4
+Res_0354,2024-01-18 06:52:00,West,55+,Prefer Not To Say,Retired,Phd,Tableau,4,Definitely Yes,Very Poor,Support,Daily,Best tool I've used so far.,2024-01-18,6,Thursday,January,High,27,5,1
+Res_0355,2024-03-31 14:31:00,South,18-24,Male,Professional,Master'S,Power Bi,5,Definitely Yes,Average,Price,Daily,"Great product, very user-friendly!",2024-03-31,14,Sunday,March,High,34,5,3
+Res_0356,2024-02-05 07:34:00,East,25-34,Prefer Not To Say,Unemployed,Phd,Python,4,Definitely Yes,Good,Performance,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-05,7,Monday,February,High,62,5,4
+Res_0357,2024-03-06 03:36:00,North,35-44,Non-Binary,Unemployed,High School,Python,5,Definitely Yes,Poor,Integration,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-03-06,3,Wednesday,March,High,56,5,2
+Res_0358,2024-03-10 06:27:00,North,25-34,Non-Binary,Student,Phd,R,4,Not Sure,Excellent,Ease Of Use,Daily,Love the features and support.,2024-03-10,6,Sunday,March,High,30,3,5
+Res_0359,2024-02-14 02:28:00,North,25-34,Female,Unemployed,Master'S,Tableau,5,Definitely No,Poor,Price,Daily,Highly recommended for beginners.,2024-02-14,2,Wednesday,February,High,33,1,2
+Res_0360,2024-03-21 13:10:00,Central,25-34,Female,Professional,High School,Power Bi,4,Definitely Yes,Excellent,Ease Of Use,Rarely,Highly recommended for beginners.,2024-03-21,13,Thursday,March,High,33,5,5
+Res_0361,2024-02-14 17:17:00,Central,55+,Female,Business Owner,Master'S,Tableau,4,Definitely Yes,Good,Price,Monthly,Love the features and support.,2024-02-14,17,Wednesday,February,High,30,5,4
+Res_0362,2024-03-14 08:54:00,Central,18-24,Female,Retired,High School,Excel,5,Not Sure,Good,Price,Weekly,Love the features and support.,2024-03-14,8,Thursday,March,High,30,3,4
+Res_0363,2024-03-24 04:44:00,South,25-34,Female,Business Owner,Bachelor'S,Excel,3,Not Sure,Excellent,Price,Weekly,Works as expected.,2024-03-24,4,Sunday,March,Medium,18,3,5
+Res_0364,2024-03-03 04:36:00,East,45-54,Prefer Not To Say,Retired,High School,Excel,4,Probably No,Average,Support,Weekly,"Great product, very user-friendly!",2024-03-03,4,Sunday,March,High,34,2,3
+Res_0365,2024-02-21 16:47:00,East,35-44,Prefer Not To Say,Retired,Master'S,Excel,4,Definitely Yes,Good,Ease Of Use,Daily,Highly recommended for beginners.,2024-02-21,16,Wednesday,February,High,33,5,4
+Res_0366,2024-01-01 23:05:00,West,35-44,Male,Unemployed,Phd,Python,4,Probably No,Good,Price,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-01-01,23,Monday,January,High,62,2,4
+Res_0367,2024-02-24 06:31:00,East,35-44,Non-Binary,Business Owner,Other,Excel,3,Not Sure,Excellent,Ease Of Use,Daily,Average experience.,2024-02-24,6,Saturday,February,Medium,19,3,5
+Res_0368,2024-01-17 18:54:00,West,35-44,Male,Student,High School,Python,4,Definitely Yes,Good,Support,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-01-17,18,Wednesday,January,High,56,5,4
+Res_0369,2024-01-03 03:59:00,South,45-54,Prefer Not To Say,Student,Phd,Excel,4,Definitely Yes,Excellent,Price,Daily,Excellent tool for data analysis.,2024-01-03,3,Wednesday,January,High,33,5,5
+Res_0370,2024-03-29 04:56:00,East,25-34,Non-Binary,Student,Master'S,R,4,Definitely Yes,Poor,Performance,Monthly,Love the features and support.,2024-03-29,4,Friday,March,High,30,5,2
+Res_0371,2024-01-11 11:42:00,South,18-24,Prefer Not To Say,Business Owner,Bachelor'S,Spss,4,Definitely Yes,Good,Price,Rarely,Best tool I've used so far.,2024-01-11,11,Thursday,January,High,27,5,4
+Res_0372,2024-03-24 02:45:00,North,18-24,Female,Retired,High School,Excel,4,Probably Yes,Good,Integration,Never,Excellent tool for data analysis.,2024-03-24,2,Sunday,March,High,33,4,4
+Res_0373,2024-03-16 07:33:00,West,18-24,Male,Business Owner,High School,Tableau,5,Probably Yes,Excellent,Price,Weekly,Best tool I've used so far.,2024-03-16,7,Saturday,March,High,27,4,5
+Res_0374,2024-03-29 04:30:00,North,25-34,Prefer Not To Say,Student,High School,Python,4,Definitely Yes,Good,Support,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-29,4,Friday,March,High,63,5,4
+Res_0375,2024-02-10 11:56:00,East,25-34,Prefer Not To Say,Professional,Bachelor'S,Python,5,Probably Yes,Average,Performance,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-10,11,Saturday,February,High,63,4,3
+Res_0376,2024-03-08 18:00:00,Central,25-34,Prefer Not To Say,Business Owner,Bachelor'S,Python,4,Probably Yes,Poor,Price,Rarely,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-08,18,Friday,March,High,62,4,2
+Res_0377,2024-02-22 19:43:00,West,25-34,Male,Student,Bachelor'S,Tableau,5,Definitely Yes,Excellent,Performance,Daily,"Great product, very user-friendly!",2024-02-22,19,Thursday,February,High,34,5,5
+Res_0378,2024-03-16 23:24:00,East,45-54,Non-Binary,Professional,Bachelor'S,R,3,Not Sure,Excellent,Ease Of Use,Weekly,Decent product overall.,2024-03-16,23,Saturday,March,Medium,23,3,5
+Res_0379,2024-03-23 02:15:00,Central,55+,Non-Binary,Student,Master'S,Excel,4,Probably Yes,Average,Performance,Weekly,Excellent tool for data analysis.,2024-03-23,2,Saturday,March,High,33,4,3
+Res_0380,2024-03-07 19:32:00,South,45-54,Non-Binary,Student,Bachelor'S,R,4,Definitely Yes,Average,Performance,Monthly,Best tool I've used so far.,2024-03-07,19,Thursday,March,High,27,5,3
+Res_0381,2024-02-19 03:15:00,West,55+,Male,Unemployed,High School,Tableau,3,Not Sure,Good,Price,Monthly,Decent product overall.,2024-02-19,3,Monday,February,Medium,23,3,4
+Res_0382,2024-02-10 04:24:00,Central,45-54,Non-Binary,Unemployed,Bachelor'S,Tableau,4,Definitely Yes,Excellent,Price,Daily,Best tool I've used so far.,2024-02-10,4,Saturday,February,High,27,5,5
+Res_0383,2024-01-10 00:37:00,North,18-24,Non-Binary,Professional,High School,Tableau,4,Definitely Yes,Good,Price,Daily,"Great product, very user-friendly!",2024-01-10,0,Wednesday,January,High,34,5,4
+Res_0384,2024-02-20 16:18:00,Central,45-54,Prefer Not To Say,Retired,High School,Python,4,Definitely Yes,Good,Support,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-20,16,Tuesday,February,High,62,5,4
+Res_0385,2024-03-09 19:09:00,East,18-24,Non-Binary,Student,Other,R,5,Definitely Yes,Good,Ease Of Use,Weekly,Excellent tool for data analysis.,2024-03-09,19,Saturday,March,High,33,5,4
+Res_0386,2024-01-20 17:20:00,West,55+,Male,Business Owner,Phd,Spss,3,Probably Yes,Excellent,Ease Of Use,Daily,Could use some improvements.,2024-01-20,17,Saturday,January,Medium,28,4,5
+Res_0387,2024-01-08 07:05:00,West,18-24,Prefer Not To Say,Unemployed,Other,Python,4,Not Sure,Excellent,Security,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-08,7,Monday,January,High,63,3,5
+Res_0388,2024-02-09 21:47:00,South,18-24,Male,Professional,High School,Power Bi,4,Probably Yes,Poor,Security,Daily,Excellent tool for data analysis.,2024-02-09,21,Friday,February,High,33,4,2
+Res_0389,2024-03-04 11:33:00,Central,35-44,Female,Business Owner,Bachelor'S,Spss,3,Probably Yes,Average,Ease Of Use,Weekly,Decent product overall.,2024-03-04,11,Monday,March,Medium,23,4,3
+Res_0390,2024-01-16 00:21:00,West,35-44,Male,Business Owner,Other,R,3,Not Sure,Average,Price,Daily,"It's okay, does the job.",2024-01-16,0,Tuesday,January,Medium,24,3,3
+Res_0391,2024-03-04 14:32:00,East,18-24,Prefer Not To Say,Unemployed,Bachelor'S,Python,4,Probably No,Average,Performance,Weekly,Love the features and support. Python ecosystem is amazing!,2024-03-04,14,Monday,March,High,59,2,3
+Res_0392,2024-01-21 08:49:00,North,55+,Male,Professional,Other,Python,3,Probably Yes,Good,Performance,Weekly,"It's okay, does the job.",2024-01-21,8,Sunday,January,Medium,24,4,4
+Res_0393,2024-01-06 00:15:00,North,45-54,Non-Binary,Retired,Bachelor'S,Spss,4,Definitely Yes,Good,Performance,Daily,Excellent tool for data analysis.,2024-01-06,0,Saturday,January,High,33,5,4
+Res_0394,2024-01-05 17:51:00,West,25-34,Non-Binary,Professional,Phd,Python,5,Definitely Yes,Good,Ease Of Use,Never,Love the features and support. Python ecosystem is amazing!,2024-01-05,17,Friday,January,High,59,5,4
+Res_0395,2024-02-04 02:36:00,East,18-24,Male,Professional,Bachelor'S,Power Bi,4,Not Sure,Excellent,Support,Daily,Highly recommended for beginners.,2024-02-04,2,Sunday,February,High,33,3,5
+Res_0396,2024-01-06 12:04:00,West,35-44,Non-Binary,Business Owner,High School,Tableau,5,Definitely Yes,Poor,Security,Daily,Highly recommended for beginners.,2024-01-06,12,Saturday,January,High,33,5,2
+Res_0397,2024-02-28 00:23:00,South,35-44,Non-Binary,Unemployed,Bachelor'S,Excel,4,Not Sure,Average,Price,Daily,Best tool I've used so far.,2024-02-28,0,Wednesday,February,High,27,3,3
+Res_0398,2024-02-17 18:31:00,South,55+,Female,Professional,High School,Python,4,Probably Yes,Good,Price,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-02-17,18,Saturday,February,High,56,4,4
+Res_0399,2024-01-04 07:34:00,East,18-24,Non-Binary,Student,Phd,Excel,5,Probably Yes,Average,Security,Daily,Love the features and support.,2024-01-04,7,Thursday,January,High,30,4,3
+Res_0400,2024-01-14 06:33:00,South,45-54,Prefer Not To Say,Student,Bachelor'S,Python,4,Not Sure,Good,Support,Rarely,Love the features and support. Python ecosystem is amazing!,2024-01-14,6,Sunday,January,High,59,3,4
+Res_0401,2024-01-12 01:58:00,South,55+,Prefer Not To Say,Business Owner,Phd,Python,4,Definitely Yes,Average,Security,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-12,1,Friday,January,High,63,5,3
+Res_0402,2024-03-15 03:32:00,South,45-54,Male,Unemployed,Other,Excel,4,Probably Yes,Average,Support,Daily,"Great product, very user-friendly!",2024-03-15,3,Friday,March,High,34,4,3
+Res_0403,2024-02-25 21:08:00,South,35-44,Non-Binary,Business Owner,Phd,R,4,Definitely Yes,Good,Security,Daily,Love the features and support.,2024-02-25,21,Sunday,February,High,30,5,4
+Res_0404,2024-02-10 14:17:00,South,18-24,Female,Professional,Other,Spss,4,Probably Yes,Poor,Performance,Daily,"Great product, very user-friendly!",2024-02-10,14,Saturday,February,High,34,4,2
+Res_0405,2024-01-20 03:10:00,West,45-54,Non-Binary,Retired,High School,Tableau,4,Definitely Yes,Average,Integration,Weekly,Highly recommended for beginners.,2024-01-20,3,Saturday,January,High,33,5,3
+Res_0406,2024-02-15 06:28:00,East,45-54,Non-Binary,Student,High School,Tableau,4,Probably Yes,Average,Ease Of Use,Weekly,Excellent tool for data analysis.,2024-02-15,6,Thursday,February,High,33,4,3
+Res_0407,2024-03-28 09:52:00,Central,18-24,Female,Business Owner,Bachelor'S,Python,4,Definitely Yes,Good,Ease Of Use,Monthly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-28,9,Thursday,March,High,63,5,4
+Res_0408,2024-02-01 11:25:00,Central,18-24,Non-Binary,Business Owner,Bachelor'S,Spss,3,Definitely Yes,Very Poor,Price,Daily,"It's okay, does the job.",2024-02-01,11,Thursday,February,Medium,24,5,1
+Res_0409,2024-02-21 14:35:00,Central,25-34,Male,Retired,High School,Python,5,Probably Yes,Excellent,Ease Of Use,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-21,14,Wednesday,February,High,62,4,5
+Res_0410,2024-01-16 00:03:00,South,25-34,Female,Retired,Master'S,R,4,Definitely Yes,Good,Integration,Rarely,"Great product, very user-friendly!",2024-01-16,0,Tuesday,January,High,34,5,4
+Res_0411,2024-03-15 18:16:00,North,18-24,Male,Professional,Phd,R,4,Definitely Yes,Excellent,Price,Never,Excellent tool for data analysis.,2024-03-15,18,Friday,March,High,33,5,5
+Res_0412,2024-01-12 10:07:00,North,45-54,Male,Professional,Other,Excel,4,Definitely Yes,Good,Ease Of Use,Rarely,Best tool I've used so far.,2024-01-12,10,Friday,January,High,27,5,4
+Res_0413,2024-02-20 15:01:00,West,45-54,Female,Business Owner,Bachelor'S,R,4,Probably Yes,Excellent,Support,Daily,Excellent tool for data analysis.,2024-02-20,15,Tuesday,February,High,33,4,5
+Res_0414,2024-02-05 08:28:00,South,18-24,Female,Business Owner,Phd,Tableau,4,Probably Yes,Poor,Price,Weekly,Best tool I've used so far.,2024-02-05,8,Monday,February,High,27,4,2
+Res_0415,2024-03-11 15:03:00,North,35-44,Prefer Not To Say,Professional,Phd,Python,4,Definitely Yes,Excellent,Ease Of Use,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-11,15,Monday,March,High,62,5,5
+Res_0416,2024-03-23 16:15:00,Central,18-24,Prefer Not To Say,Business Owner,Phd,Python,5,Probably Yes,Good,Ease Of Use,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-23,16,Saturday,March,High,62,4,4
+Res_0417,2024-03-03 11:58:00,Central,55+,Non-Binary,Retired,Master'S,Python,4,Definitely Yes,Poor,Ease Of Use,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-03,11,Sunday,March,High,62,5,2
+Res_0418,2024-01-04 10:38:00,South,18-24,Non-Binary,Student,Phd,Tableau,4,Definitely Yes,Excellent,Performance,Daily,Highly recommended for beginners.,2024-01-04,10,Thursday,January,High,33,5,5
+Res_0419,2024-02-15 18:14:00,South,18-24,Female,Professional,Master'S,Power Bi,5,Not Sure,Good,Integration,Daily,Highly recommended for beginners.,2024-02-15,18,Thursday,February,High,33,3,4
+Res_0420,2024-01-08 07:36:00,West,35-44,Female,Professional,Bachelor'S,Spss,3,Definitely Yes,Average,Performance,Daily,Average experience.,2024-01-08,7,Monday,January,Medium,19,5,3
+Res_0421,2024-02-10 23:44:00,East,55+,Male,Business Owner,Other,Excel,3,Not Sure,Very Poor,Integration,Never,Average experience.,2024-02-10,23,Saturday,February,Medium,19,3,1
+Res_0422,2024-01-19 18:12:00,West,55+,Non-Binary,Professional,Phd,Tableau,3,Probably Yes,Excellent,Support,Weekly,"It's okay, does the job.",2024-01-19,18,Friday,January,Medium,24,4,5
+Res_0423,2024-01-12 01:14:00,Central,25-34,Male,Unemployed,Phd,Python,5,Definitely Yes,Good,Price,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-12,1,Friday,January,High,63,5,4
+Res_0424,2024-02-12 19:12:00,South,35-44,Female,Business Owner,High School,R,4,Definitely Yes,Excellent,Integration,Weekly,"Great product, very user-friendly!",2024-02-12,19,Monday,February,High,34,5,5
+Res_0425,2024-01-19 18:45:00,South,18-24,Non-Binary,Student,Master'S,Power Bi,4,Probably Yes,Good,Integration,Daily,Best tool I've used so far.,2024-01-19,18,Friday,January,High,27,4,4
+Res_0426,2024-03-16 03:21:00,East,35-44,Female,Professional,Phd,Excel,4,Probably Yes,Good,Ease Of Use,Weekly,Best tool I've used so far.,2024-03-16,3,Saturday,March,High,27,4,4
+Res_0427,2024-03-24 10:11:00,Central,55+,Non-Binary,Professional,Other,Tableau,4,Definitely Yes,Average,Ease Of Use,Rarely,Excellent tool for data analysis.,2024-03-24,10,Sunday,March,High,33,5,3
+Res_0428,2024-02-18 09:46:00,East,25-34,Female,Student,Other,Python,4,Definitely Yes,Excellent,Ease Of Use,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-02-18,9,Sunday,February,High,56,5,5
+Res_0429,2024-03-13 01:11:00,Central,35-44,Female,Unemployed,High School,R,3,Definitely Yes,Excellent,Price,Weekly,Works as expected.,2024-03-13,1,Wednesday,March,Medium,18,5,5
+Res_0430,2024-01-19 10:47:00,North,25-34,Non-Binary,Business Owner,Bachelor'S,R,3,Not Sure,Good,Ease Of Use,Weekly,"It's okay, does the job.",2024-01-19,10,Friday,January,Medium,24,3,4
+Res_0431,2024-03-31 21:40:00,East,45-54,Male,Business Owner,Bachelor'S,Spss,4,Definitely Yes,Average,Integration,Weekly,Excellent tool for data analysis.,2024-03-31,21,Sunday,March,High,33,5,3
+Res_0432,2024-03-29 02:22:00,East,18-24,Male,Student,Phd,Spss,4,Definitely Yes,Excellent,Support,Monthly,Best tool I've used so far.,2024-03-29,2,Friday,March,High,27,5,5
+Res_0433,2024-02-23 05:56:00,West,45-54,Prefer Not To Say,Business Owner,Other,Python,4,Definitely Yes,Good,Price,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-02-23,5,Friday,February,High,56,5,4
+Res_0434,2024-01-13 15:50:00,Central,25-34,Female,Retired,High School,R,4,Probably Yes,Very Poor,Integration,Daily,"Great product, very user-friendly!",2024-01-13,15,Saturday,January,High,34,4,1
+Res_0435,2024-02-07 00:20:00,East,18-24,Male,Business Owner,Bachelor'S,Power Bi,5,Definitely Yes,Good,Performance,Daily,Best tool I've used so far.,2024-02-07,0,Wednesday,February,High,27,5,4
+Res_0436,2024-01-21 23:04:00,Central,18-24,Non-Binary,Unemployed,Other,R,5,Definitely Yes,Good,Support,Weekly,Best tool I've used so far.,2024-01-21,23,Sunday,January,High,27,5,4
+Res_0437,2024-03-31 00:27:00,South,55+,Prefer Not To Say,Professional,High School,Python,4,Definitely Yes,Good,Ease Of Use,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-31,0,Sunday,March,High,63,5,4
+Res_0438,2024-02-12 06:12:00,West,55+,Non-Binary,Business Owner,Master'S,Python,4,Probably Yes,Average,Price,Daily,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-12,6,Monday,February,High,62,4,3
+Res_0439,2024-01-13 01:25:00,Central,55+,Prefer Not To Say,Professional,High School,Power Bi,2,Probably No,Good,Performance,Rarely,Customer support could be better.,2024-01-13,1,Saturday,January,Low,33,2,4
+Res_0440,2024-01-01 13:05:00,East,55+,Prefer Not To Say,Professional,High School,Python,4,Definitely Yes,Poor,Support,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-01,13,Monday,January,High,63,5,2
+Res_0441,2024-01-27 05:40:00,East,18-24,Prefer Not To Say,Student,Master'S,Python,4,Probably No,Average,Ease Of Use,Weekly,Best tool I've used so far. Python ecosystem is amazing!,2024-01-27,5,Saturday,January,High,56,2,3
+Res_0442,2024-03-01 15:57:00,East,18-24,Prefer Not To Say,Professional,Master'S,Excel,4,Definitely Yes,Good,Integration,Weekly,Best tool I've used so far.,2024-03-01,15,Friday,March,High,27,5,4
+Res_0443,2024-02-17 05:28:00,North,35-44,Prefer Not To Say,Retired,Master'S,R,3,Definitely Yes,Good,Performance,Daily,Could use some improvements.,2024-02-17,5,Saturday,February,Medium,28,5,4
+Res_0444,2024-02-04 18:03:00,South,18-24,Male,Business Owner,Other,Power Bi,4,Definitely No,Average,Integration,Daily,Best tool I've used so far.,2024-02-04,18,Sunday,February,High,27,1,3
+Res_0445,2024-03-16 07:35:00,North,45-54,Prefer Not To Say,Unemployed,Phd,Spss,3,Probably Yes,Good,Price,Daily,Average experience.,2024-03-16,7,Saturday,March,Medium,19,4,4
+Res_0446,2024-01-31 15:19:00,North,45-54,Male,Unemployed,Other,Excel,4,Definitely No,Excellent,Integration,Rarely,Highly recommended for beginners.,2024-01-31,15,Wednesday,January,High,33,1,5
+Res_0447,2024-03-14 21:39:00,South,18-24,Prefer Not To Say,Professional,Bachelor'S,Spss,4,Probably No,Average,Ease Of Use,Weekly,Excellent tool for data analysis.,2024-03-14,21,Thursday,March,High,33,2,3
+Res_0448,2024-01-25 04:02:00,West,18-24,Prefer Not To Say,Professional,Bachelor'S,Tableau,5,Definitely Yes,Good,Support,Daily,Highly recommended for beginners.,2024-01-25,4,Thursday,January,High,33,5,4
+Res_0449,2024-02-03 10:58:00,North,18-24,Prefer Not To Say,Unemployed,Phd,R,4,Definitely Yes,Excellent,Price,Rarely,Highly recommended for beginners.,2024-02-03,10,Saturday,February,High,33,5,5
+Res_0450,2024-02-11 08:33:00,West,18-24,Prefer Not To Say,Student,Phd,Python,5,Probably Yes,Excellent,Ease Of Use,Monthly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-02-11,8,Sunday,February,High,62,4,5
+Res_0451,2024-01-19 18:37:00,Central,18-24,Male,Unemployed,High School,Tableau,5,Definitely Yes,Good,Support,Daily,Love the features and support.,2024-01-19,18,Friday,January,High,30,5,4
+Res_0452,2024-03-09 11:56:00,West,35-44,Prefer Not To Say,Retired,Other,Python,4,Definitely Yes,Poor,Security,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-09,11,Saturday,March,High,62,5,2
+Res_0453,2024-03-01 01:11:00,East,45-54,Female,Unemployed,Other,Tableau,3,Not Sure,Poor,Security,Weekly,Works as expected.,2024-03-01,1,Friday,March,Medium,18,3,2
+Res_0454,2024-01-05 12:56:00,East,25-34,Male,Retired,Master'S,R,3,Not Sure,Good,Price,Daily,Decent product overall.,2024-01-05,12,Friday,January,Medium,23,3,4
+Res_0455,2024-01-03 10:52:00,East,35-44,Non-Binary,Retired,High School,Excel,3,Definitely No,Excellent,Price,Daily,Could use some improvements.,2024-01-03,10,Wednesday,January,Medium,28,1,5
+Res_0456,2024-01-18 09:47:00,West,35-44,Non-Binary,Retired,Other,Python,4,Definitely Yes,Excellent,Integration,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-18,9,Thursday,January,High,63,5,5
+Res_0457,2024-01-25 14:13:00,West,45-54,Non-Binary,Student,Other,Spss,3,Not Sure,Good,Support,Daily,Could use some improvements.,2024-01-25,14,Thursday,January,Medium,28,3,4
+Res_0458,2024-01-09 09:45:00,Central,45-54,Female,Unemployed,Other,Excel,4,Not Sure,Poor,Integration,Weekly,"Great product, very user-friendly!",2024-01-09,9,Tuesday,January,High,34,3,2
+Res_0459,2024-01-23 06:56:00,South,18-24,Female,Student,Phd,Power Bi,4,Definitely Yes,Average,Ease Of Use,Daily,"Great product, very user-friendly!",2024-01-23,6,Tuesday,January,High,34,5,3
+Res_0460,2024-02-16 22:12:00,East,35-44,Prefer Not To Say,Unemployed,Phd,Power Bi,2,Not Sure,Excellent,Ease Of Use,Rarely,Needs better documentation.,2024-02-16,22,Friday,February,Low,27,3,5
+Res_0461,2024-03-28 00:15:00,East,45-54,Prefer Not To Say,Professional,Phd,R,4,Probably Yes,Good,Support,Monthly,Highly recommended for beginners.,2024-03-28,0,Thursday,March,High,33,4,4
+Res_0462,2024-03-11 11:22:00,South,35-44,Male,Business Owner,High School,Tableau,4,Definitely Yes,Poor,Price,Daily,Best tool I've used so far.,2024-03-11,11,Monday,March,High,27,5,2
+Res_0463,2024-01-07 05:54:00,Central,25-34,Female,Professional,Bachelor'S,Excel,4,Definitely Yes,Very Poor,Ease Of Use,Daily,Love the features and support.,2024-01-07,5,Sunday,January,High,30,5,1
+Res_0464,2024-03-24 13:32:00,North,18-24,Prefer Not To Say,Professional,Bachelor'S,Python,3,Probably Yes,Excellent,Support,Never,Average experience.,2024-03-24,13,Sunday,March,Medium,19,4,5
+Res_0465,2024-01-02 07:16:00,Central,35-44,Non-Binary,Retired,Phd,R,4,Probably Yes,Good,Performance,Daily,Love the features and support.,2024-01-02,7,Tuesday,January,High,30,4,4
+Res_0466,2024-02-28 08:13:00,West,35-44,Prefer Not To Say,Unemployed,High School,Tableau,5,Probably Yes,Excellent,Price,Rarely,"Great product, very user-friendly!",2024-02-28,8,Wednesday,February,High,34,4,5
+Res_0467,2024-03-06 21:53:00,East,55+,Non-Binary,Business Owner,High School,Tableau,4,Probably Yes,Excellent,Price,Monthly,Best tool I've used so far.,2024-03-06,21,Wednesday,March,High,27,4,5
+Res_0468,2024-01-09 10:17:00,East,35-44,Non-Binary,Business Owner,Bachelor'S,Python,3,Not Sure,Average,Security,Daily,Could use some improvements.,2024-01-09,10,Tuesday,January,Medium,28,3,3
+Res_0469,2024-03-07 07:57:00,North,55+,Prefer Not To Say,Business Owner,Bachelor'S,Python,3,Not Sure,Average,Ease Of Use,Weekly,"It's okay, does the job.",2024-03-07,7,Thursday,March,Medium,24,3,3
+Res_0470,2024-03-24 15:18:00,East,45-54,Prefer Not To Say,Retired,High School,R,4,Definitely Yes,Poor,Integration,Weekly,Highly recommended for beginners.,2024-03-24,15,Sunday,March,High,33,5,2
+Res_0471,2024-03-31 18:52:00,South,35-44,Female,Unemployed,Phd,Tableau,5,Probably Yes,Average,Integration,Daily,Love the features and support.,2024-03-31,18,Sunday,March,High,30,4,3
+Res_0472,2024-03-05 09:54:00,South,55+,Female,Business Owner,High School,Power Bi,3,Definitely Yes,Good,Performance,Never,Works as expected.,2024-03-05,9,Tuesday,March,Medium,18,5,4
+Res_0473,2024-01-17 23:16:00,Central,25-34,Non-Binary,Student,Bachelor'S,Power Bi,5,Definitely Yes,Poor,Performance,Daily,Love the features and support.,2024-01-17,23,Wednesday,January,High,30,5,2
+Res_0474,2024-01-29 23:55:00,East,45-54,Non-Binary,Business Owner,Master'S,Python,4,Probably Yes,Average,Price,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-01-29,23,Monday,January,High,62,4,3
+Res_0475,2024-02-07 14:54:00,North,45-54,Male,Unemployed,Other,Tableau,4,Definitely Yes,Average,Integration,Weekly,Highly recommended for beginners.,2024-02-07,14,Wednesday,February,High,33,5,3
+Res_0476,2024-01-10 15:56:00,South,55+,Male,Retired,Other,Spss,3,Definitely Yes,Average,Support,Rarely,Decent product overall.,2024-01-10,15,Wednesday,January,Medium,23,5,3
+Res_0477,2024-02-22 01:55:00,South,25-34,Female,Business Owner,Phd,Python,5,Definitely Yes,Excellent,Integration,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-22,1,Thursday,February,High,62,5,5
+Res_0478,2024-02-28 04:20:00,South,18-24,Prefer Not To Say,Business Owner,Bachelor'S,R,5,Definitely Yes,Poor,Support,Monthly,Love the features and support.,2024-02-28,4,Wednesday,February,High,30,5,2
+Res_0479,2024-03-22 01:00:00,West,35-44,Female,Professional,Other,Python,5,Probably Yes,Poor,Ease Of Use,Weekly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-22,1,Friday,March,High,62,4,2
+Res_0480,2024-03-03 02:08:00,Central,45-54,Prefer Not To Say,Retired,Phd,Python,5,Definitely Yes,Good,Performance,Daily,Best tool I've used so far. Python ecosystem is amazing!,2024-03-03,2,Sunday,March,High,56,5,4
+Res_0481,2024-02-19 00:02:00,Central,25-34,Non-Binary,Student,Master'S,Excel,5,Definitely Yes,Excellent,Support,Daily,Highly recommended for beginners.,2024-02-19,0,Monday,February,High,33,5,5
+Res_0482,2024-01-25 00:43:00,North,25-34,Female,Business Owner,Master'S,R,4,Probably Yes,Good,Ease Of Use,Daily,Excellent tool for data analysis.,2024-01-25,0,Thursday,January,High,33,4,4
+Res_0483,2024-01-14 12:32:00,Central,35-44,Female,Student,High School,Spss,4,Probably Yes,Excellent,Performance,Monthly,Love the features and support.,2024-01-14,12,Sunday,January,High,30,4,5
+Res_0484,2024-02-07 14:46:00,Central,55+,Non-Binary,Retired,Bachelor'S,Python,4,Definitely Yes,Good,Price,Never,Love the features and support. Python ecosystem is amazing!,2024-02-07,14,Wednesday,February,High,59,5,4
+Res_0485,2024-03-03 11:48:00,South,25-34,Prefer Not To Say,Student,Bachelor'S,Python,4,Probably No,Excellent,Performance,Monthly,Excellent tool for data analysis. Python ecosystem is amazing!,2024-03-03,11,Sunday,March,High,62,2,5
+Res_0486,2024-01-17 06:46:00,North,55+,Female,Student,Master'S,Excel,3,Probably Yes,Good,Performance,Daily,"It's okay, does the job.",2024-01-17,6,Wednesday,January,Medium,24,4,4
+Res_0487,2024-02-18 20:16:00,Central,55+,Male,Unemployed,High School,R,2,Not Sure,Average,Security,Weekly,Needs better documentation.,2024-02-18,20,Sunday,February,Low,27,3,3
+Res_0488,2024-03-24 00:03:00,North,45-54,Prefer Not To Say,Retired,High School,Python,4,Definitely Yes,Very Poor,Performance,Daily,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-24,0,Sunday,March,High,62,5,1
+Res_0489,2024-02-02 15:44:00,South,25-34,Male,Business Owner,Phd,Excel,5,Definitely Yes,Excellent,Security,Daily,"Great product, very user-friendly!",2024-02-02,15,Friday,February,High,34,5,5
+Res_0490,2024-03-25 16:17:00,Central,55+,Female,Retired,High School,Tableau,4,Probably Yes,Average,Performance,Daily,Highly recommended for beginners.,2024-03-25,16,Monday,March,High,33,4,3
+Res_0491,2024-03-20 03:18:00,North,18-24,Prefer Not To Say,Professional,Other,R,4,Definitely Yes,Average,Support,Weekly,Excellent tool for data analysis.,2024-03-20,3,Wednesday,March,High,33,5,3
+Res_0492,2024-02-03 16:12:00,East,45-54,Non-Binary,Professional,High School,Python,4,Definitely Yes,Good,Performance,Never,Highly recommended for beginners. Python ecosystem is amazing!,2024-02-03,16,Saturday,February,High,62,5,4
+Res_0493,2024-03-04 06:44:00,West,35-44,Female,Student,High School,Python,4,Probably Yes,Very Poor,Ease Of Use,Daily,"Great product, very user-friendly! Python ecosystem is amazing!",2024-03-04,6,Monday,March,High,63,4,1
+Res_0494,2024-01-15 18:42:00,West,25-34,Male,Unemployed,High School,Python,5,Definitely Yes,Average,Security,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-15,18,Monday,January,High,63,5,3
+Res_0495,2024-02-02 20:14:00,West,35-44,Non-Binary,Retired,High School,Python,5,Definitely Yes,Good,Price,Weekly,"Great product, very user-friendly! Python ecosystem is amazing!",2024-02-02,20,Friday,February,High,63,5,4
+Res_0496,2024-01-23 01:54:00,East,35-44,Non-Binary,Retired,High School,Python,4,Probably Yes,Excellent,Ease Of Use,Rarely,"Great product, very user-friendly! Python ecosystem is amazing!",2024-01-23,1,Tuesday,January,High,63,4,5
+Res_0497,2024-01-06 00:54:00,South,25-34,Non-Binary,Business Owner,Phd,Tableau,4,Definitely Yes,Excellent,Price,Monthly,Highly recommended for beginners.,2024-01-06,0,Saturday,January,High,33,5,5
+Res_0498,2024-02-04 23:05:00,East,35-44,Female,Student,Phd,Excel,3,Not Sure,Excellent,Security,Monthly,Works as expected.,2024-02-04,23,Sunday,February,Medium,18,3,5
+Res_0499,2024-02-28 08:53:00,West,45-54,Prefer Not To Say,Professional,High School,Tableau,3,Not Sure,Average,Support,Weekly,Could use some improvements.,2024-02-28,8,Wednesday,February,Medium,28,3,3
+Res_0500,2024-03-30 23:03:00,South,18-24,Prefer Not To Say,Unemployed,Phd,Python,5,Definitely Yes,Poor,Price,Weekly,Highly recommended for beginners. Python ecosystem is amazing!,2024-03-30,23,Saturday,March,High,62,5,2

@@ -1,0 +1,83 @@
+======================================================================
+POLL RESULTS VISUALIZER - INSIGHTS REPORT
+======================================================================
+
+Generated: 2026-04-17 19:34:50
+Total Responses: 500
+
+KEY FINDINGS
+----------------------------------------
+
+[Popularity]
+Finding: Python is the most preferred tool with 33.2% of votes.
+Recommendation: Continue investing in Python features and support.
+
+[Satisfaction]
+Finding: Overall satisfaction is moderate at 3.9/5.0.
+Recommendation: Identify key pain points and address them to improve satisfaction.
+
+[Regional]
+Finding: North region has highest satisfaction (4.0), while East region has lowest (3.8).
+Recommendation: Investigate what works in North and apply learnings to East.
+
+[Demographic]
+Finding: 18-24 age group prefers Python (0.3%).
+Recommendation: Target 18-24 demographic with Python-specific marketing.
+
+[Demographic]
+Finding: 25-34 age group prefers Python (0.3%).
+Recommendation: Target 25-34 demographic with Python-specific marketing.
+
+[Demographic]
+Finding: 35-44 age group prefers Python (0.4%).
+Recommendation: Target 35-44 demographic with Python-specific marketing.
+
+[Demographic]
+Finding: 45-54 age group prefers Python (0.3%).
+Recommendation: Target 45-54 demographic with Python-specific marketing.
+
+[Demographic]
+Finding: 55+ age group prefers Python (0.4%).
+Recommendation: Target 55+ demographic with Python-specific marketing.
+
+[Loyalty]
+Finding: 71.2% of respondents would recommend our product.
+Recommendation: Encourage promoters to leave reviews and share feedback.
+
+[Feedback]
+Finding: High satisfaction customers provide 42 characters of feedback vs 41 for low satisfaction.
+Recommendation: Engage with satisfied customers for testimonials; follow up with dissatisfied ones for detailed input.
+
+
+RECOMMENDATIONS
+----------------------------------------
+
+[Medium] Evaluate low-performing tools: Spss
+Impact: Optimize resource allocation
+
+[High] Contact 10 dissatisfied customers for detailed feedback
+Impact: Improve retention and satisfaction
+
+[High] Launch targeted campaign in East region
+Impact: Improve regional satisfaction scores
+
+[High] Conduct customer support training (affects 88 respondents)
+Impact: Improve support quality ratings
+
+[Medium] Prioritize development of: Ease Of Use, Price
+Impact: Address top customer needs
+
+
+## EXECUTIVE SUMMARY
+
+⚠️ **Overall Customer Sentiment: Neutral to Positive**
+
+**Key Statistics:**
+- Total Responses Analyzed: 500
+- Most Popular Tool: Python (33.2%)
+- Would Recommend: 71.2%
+
+**Top 3 Recommendations:**
+1. [Medium Priority] Evaluate low-performing tools: Spss
+2. [High Priority] Contact 10 dissatisfied customers for detailed feedback
+3. [High Priority] Launch targeted campaign in East region
